@@ -998,3 +998,339 @@ IL-00991,2026-04-17,2026,4,2026-04,Cedar Street,Napkins,Harbor Supply,107,pack,1
 IL-01003,2026-04-17,2026,4,2026-04,Juniper Cafe,Rice,Silverline Traders,117,kg,0.85,99.45,BHD
 IL-01009,2026-04-17,2026,4,2026-04,Lantern House,Coffee beans,Northline Wholesale,36,kg,8.28,298.08,BHD
 IL-00992,2026-04-18,2026,4,2026-04,Cedar Street,Frozen vegetables,Eastbay Foods,117,kg,1.35,157.95,BHD
+IL-01004,2026-04-18,2026,4,2026-04,Juniper Cafe,Milk,Eastbay Foods,176,litre,0.57,100.32,BHD
+IL-01010,2026-04-18,2026,4,2026-04,Lantern House,Chicken breast,Green Basket,206,kg,2.56,527.36,BHD
+IL-00998,2026-04-18,2026,4,2026-04,Market Table,Cleaning liquid,Silverline Traders,52,litre,1.85,96.2,BHD
+IL-01017,2026-04-19,2026,4,2026-04,East Pier,Coffee beans,Harbor Supply,42,kg,9.3,390.6,BHD
+IL-01005,2026-04-19,2026,4,2026-04,Juniper Cafe,Olive oil,Green Basket,38,litre,3.24,123.12,BHD
+IL-01011,2026-04-19,2026,4,2026-04,Lantern House,Rice,Northline Wholesale,147,kg,0.79,116.13,BHD
+IL-00999,2026-04-19,2026,4,2026-04,Market Table,Napkins,Northline Wholesale,149,pack,1.01,150.49,BHD
+IL-01018,2026-04-20,2026,4,2026-04,East Pier,Chicken breast,Eastbay Foods,235,kg,2.36,554.6,BHD
+IL-01006,2026-04-20,2026,4,2026-04,Juniper Cafe,Cleaning liquid,Harbor Supply,30,litre,2.17,65.1,BHD
+IL-01012,2026-04-20,2026,4,2026-04,Lantern House,Milk,Harbor Supply,224,litre,0.62,138.88,BHD
+IL-01000,2026-04-20,2026,4,2026-04,Market Table,Frozen vegetables,Eastbay Foods,124,kg,1.33,164.92,BHD
+IL-01019,2026-04-21,2026,4,2026-04,East Pier,Rice,Northline Wholesale,202,kg,0.8,161.6,BHD
+IL-01007,2026-04-21,2026,4,2026-04,Juniper Cafe,Napkins,Northline Wholesale,107,pack,1.02,109.14,BHD
+IL-01013,2026-04-21,2026,4,2026-04,Lantern House,Olive oil,Green Basket,53,litre,3.27,173.31,BHD
+IL-01020,2026-04-22,2026,4,2026-04,East Pier,Milk,Harbor Supply,245,litre,0.63,154.35,BHD
+IL-01008,2026-04-22,2026,4,2026-04,Juniper Cafe,Frozen vegetables,Green Basket,73,kg,1.23,89.79,BHD
+IL-01014,2026-04-22,2026,4,2026-04,Lantern House,Cleaning liquid,Silverline Traders,38,litre,1.85,70.3,BHD
+IL-01021,2026-04-23,2026,4,2026-04,East Pier,Olive oil,Silverline Traders,71,litre,3.52,249.92,BHD
+IL-01015,2026-04-23,2026,4,2026-04,Lantern House,Napkins,Harbor Supply,109,pack,1.14,124.26,BHD
+IL-01086,2026-05-05,2026,5,2026-05,East Pier,Cleaning liquid,Silverline Traders,39,litre,1.89,73.71,BHD
+IL-01025,2026-05-05,2026,5,2026-05,Harbor Kitchen,Coffee beans,Northline Wholesale,57,kg,8.79,501.03,BHD
+IL-01080,2026-05-05,2026,5,2026-05,Lantern House,Frozen vegetables,Eastbay Foods,102,kg,1.34,136.68,BHD
+IL-01087,2026-05-06,2026,5,2026-05,East Pier,Napkins,Northline Wholesale,160,pack,1.0,160.0,BHD
+IL-01026,2026-05-06,2026,5,2026-05,Harbor Kitchen,Chicken breast,Green Basket,211,kg,2.59,546.49,BHD
+IL-01088,2026-05-07,2026,5,2026-05,East Pier,Frozen vegetables,Eastbay Foods,131,kg,1.34,175.54,BHD
+IL-01027,2026-05-07,2026,5,2026-05,Harbor Kitchen,Rice,Northline Wholesale,214,kg,0.79,169.06,BHD
+IL-01033,2026-05-07,2026,5,2026-05,The Courtyard,Coffee beans,Harbor Supply,51,kg,9.92,505.92,BHD
+IL-01028,2026-05-08,2026,5,2026-05,Harbor Kitchen,Milk,Harbor Supply,233,litre,0.63,146.79,BHD
+IL-01034,2026-05-08,2026,5,2026-05,The Courtyard,Chicken breast,Eastbay Foods,177,kg,2.39,423.03,BHD
+IL-01029,2026-05-09,2026,5,2026-05,Harbor Kitchen,Olive oil,Silverline Traders,74,litre,3.52,260.48,BHD
+IL-01041,2026-05-09,2026,5,2026-05,Olive & Ember,Coffee beans,Harbor Supply,55,kg,9.94,546.7,BHD
+IL-01035,2026-05-09,2026,5,2026-05,The Courtyard,Rice,Silverline Traders,141,kg,0.84,118.44,BHD
+IL-01030,2026-05-10,2026,5,2026-05,Harbor Kitchen,Cleaning liquid,Harbor Supply,62,litre,2.14,132.68,BHD
+IL-01042,2026-05-10,2026,5,2026-05,Olive & Ember,Chicken breast,Green Basket,290,kg,2.6,754.0,BHD
+IL-01036,2026-05-10,2026,5,2026-05,The Courtyard,Milk,Harbor Supply,263,litre,0.62,163.06,BHD
+IL-01049,2026-05-11,2026,5,2026-05,Cedar Street,Coffee beans,Northline Wholesale,36,kg,8.8,316.8,BHD
+IL-01031,2026-05-11,2026,5,2026-05,Harbor Kitchen,Napkins,Northline Wholesale,169,pack,1.02,172.38,BHD
+IL-01043,2026-05-11,2026,5,2026-05,Olive & Ember,Rice,Silverline Traders,175,kg,0.85,148.75,BHD
+IL-01037,2026-05-11,2026,5,2026-05,The Courtyard,Olive oil,Green Basket,55,litre,3.28,180.4,BHD
+IL-01050,2026-05-12,2026,5,2026-05,Cedar Street,Chicken breast,Eastbay Foods,142,kg,2.39,339.38,BHD
+IL-01032,2026-05-12,2026,5,2026-05,Harbor Kitchen,Frozen vegetables,Eastbay Foods,157,kg,1.34,210.38,BHD
+IL-01044,2026-05-12,2026,5,2026-05,Olive & Ember,Milk,Harbor Supply,256,litre,0.63,161.28,BHD
+IL-01038,2026-05-12,2026,5,2026-05,The Courtyard,Cleaning liquid,Harbor Supply,41,litre,2.13,87.33,BHD
+IL-01051,2026-05-13,2026,5,2026-05,Cedar Street,Rice,Northline Wholesale,158,kg,0.79,124.82,BHD
+IL-01057,2026-05-13,2026,5,2026-05,Market Table,Coffee beans,Harbor Supply,46,kg,9.9,455.4,BHD
+IL-01045,2026-05-13,2026,5,2026-05,Olive & Ember,Olive oil,Green Basket,89,litre,3.3,293.7,BHD
+IL-01039,2026-05-13,2026,5,2026-05,The Courtyard,Napkins,Harbor Supply,133,pack,1.13,150.29,BHD
+IL-01052,2026-05-14,2026,5,2026-05,Cedar Street,Milk,Eastbay Foods,208,litre,0.57,118.56,BHD
+IL-01058,2026-05-14,2026,5,2026-05,Market Table,Chicken breast,Eastbay Foods,203,kg,2.4,487.2,BHD
+IL-01046,2026-05-14,2026,5,2026-05,Olive & Ember,Cleaning liquid,Silverline Traders,49,litre,1.88,92.12,BHD
+IL-01040,2026-05-14,2026,5,2026-05,The Courtyard,Frozen vegetables,Green Basket,118,kg,1.22,143.96,BHD
+IL-01053,2026-05-15,2026,5,2026-05,Cedar Street,Olive oil,Silverline Traders,50,litre,3.48,174.0,BHD
+IL-01065,2026-05-15,2026,5,2026-05,Juniper Cafe,Coffee beans,Northline Wholesale,37,kg,8.84,327.08,BHD
+IL-01059,2026-05-15,2026,5,2026-05,Market Table,Rice,Silverline Traders,155,kg,0.85,131.75,BHD
+IL-01047,2026-05-15,2026,5,2026-05,Olive & Ember,Napkins,Northline Wholesale,147,pack,1.02,149.94,BHD
+IL-01054,2026-05-16,2026,5,2026-05,Cedar Street,Cleaning liquid,Silverline Traders,41,litre,1.9,77.9,BHD
+IL-01066,2026-05-16,2026,5,2026-05,Juniper Cafe,Chicken breast,Green Basket,159,kg,2.59,411.81,BHD
+IL-01060,2026-05-16,2026,5,2026-05,Market Table,Milk,Harbor Supply,229,litre,0.63,144.27,BHD
+IL-01048,2026-05-16,2026,5,2026-05,Olive & Ember,Frozen vegetables,Eastbay Foods,172,kg,1.35,232.2,BHD
+IL-01055,2026-05-17,2026,5,2026-05,Cedar Street,Napkins,Northline Wholesale,118,pack,1.02,120.36,BHD
+IL-01067,2026-05-17,2026,5,2026-05,Juniper Cafe,Rice,Silverline Traders,98,kg,0.85,83.3,BHD
+IL-01073,2026-05-17,2026,5,2026-05,Lantern House,Coffee beans,Northline Wholesale,37,kg,8.75,323.75,BHD
+IL-01061,2026-05-17,2026,5,2026-05,Market Table,Olive oil,Silverline Traders,78,litre,3.49,272.22,BHD
+IL-01056,2026-05-18,2026,5,2026-05,Cedar Street,Frozen vegetables,Eastbay Foods,107,kg,1.33,142.31,BHD
+IL-01068,2026-05-18,2026,5,2026-05,Juniper Cafe,Milk,Eastbay Foods,170,litre,0.57,96.9,BHD
+IL-01074,2026-05-18,2026,5,2026-05,Lantern House,Chicken breast,Green Basket,152,kg,2.54,386.08,BHD
+IL-01062,2026-05-18,2026,5,2026-05,Market Table,Cleaning liquid,Silverline Traders,52,litre,1.87,97.24,BHD
+IL-01081,2026-05-19,2026,5,2026-05,East Pier,Coffee beans,Northline Wholesale,40,kg,8.85,354.0,BHD
+IL-01069,2026-05-19,2026,5,2026-05,Juniper Cafe,Olive oil,Green Basket,38,litre,3.27,124.26,BHD
+IL-01075,2026-05-19,2026,5,2026-05,Lantern House,Rice,Northline Wholesale,142,kg,0.8,113.6,BHD
+IL-01063,2026-05-19,2026,5,2026-05,Market Table,Napkins,Northline Wholesale,162,pack,1.0,162.0,BHD
+IL-01082,2026-05-20,2026,5,2026-05,East Pier,Chicken breast,Green Basket,232,kg,2.6,603.2,BHD
+IL-01070,2026-05-20,2026,5,2026-05,Juniper Cafe,Cleaning liquid,Silverline Traders,27,litre,1.89,51.03,BHD
+IL-01076,2026-05-20,2026,5,2026-05,Lantern House,Milk,Eastbay Foods,180,litre,0.57,102.6,BHD
+IL-01064,2026-05-20,2026,5,2026-05,Market Table,Frozen vegetables,Green Basket,120,kg,1.23,147.6,BHD
+IL-01083,2026-05-21,2026,5,2026-05,East Pier,Rice,Northline Wholesale,161,kg,0.8,128.8,BHD
+IL-01071,2026-05-21,2026,5,2026-05,Juniper Cafe,Napkins,Harbor Supply,87,pack,1.15,100.05,BHD
+IL-01077,2026-05-21,2026,5,2026-05,Lantern House,Olive oil,Silverline Traders,58,litre,3.5,203.0,BHD
+IL-01084,2026-05-22,2026,5,2026-05,East Pier,Milk,Eastbay Foods,217,litre,0.57,123.69,BHD
+IL-01072,2026-05-22,2026,5,2026-05,Juniper Cafe,Frozen vegetables,Eastbay Foods,89,kg,1.33,118.37,BHD
+IL-01078,2026-05-22,2026,5,2026-05,Lantern House,Cleaning liquid,Silverline Traders,41,litre,1.86,76.26,BHD
+IL-01085,2026-05-23,2026,5,2026-05,East Pier,Olive oil,Silverline Traders,66,litre,3.5,231.0,BHD
+IL-01079,2026-05-23,2026,5,2026-05,Lantern House,Napkins,Northline Wholesale,122,pack,1.01,123.22,BHD
+IL-01150,2026-06-05,2026,6,2026-06,East Pier,Cleaning liquid,Silverline Traders,49,litre,1.87,91.63,BHD
+IL-01089,2026-06-05,2026,6,2026-06,Harbor Kitchen,Coffee beans,Northline Wholesale,61,kg,8.76,534.36,BHD
+IL-01144,2026-06-05,2026,6,2026-06,Lantern House,Frozen vegetables,Eastbay Foods,104,kg,1.33,138.32,BHD
+IL-01151,2026-06-06,2026,6,2026-06,East Pier,Napkins,Harbor Supply,148,pack,1.14,168.72,BHD
+IL-01090,2026-06-06,2026,6,2026-06,Harbor Kitchen,Chicken breast,Eastbay Foods,235,kg,2.37,556.95,BHD
+IL-01152,2026-06-07,2026,6,2026-06,East Pier,Frozen vegetables,Eastbay Foods,121,kg,1.36,164.56,BHD
+IL-01091,2026-06-07,2026,6,2026-06,Harbor Kitchen,Rice,Northline Wholesale,168,kg,0.79,132.72,BHD
+IL-01097,2026-06-07,2026,6,2026-06,The Courtyard,Coffee beans,Harbor Supply,38,kg,9.88,375.44,BHD
+IL-01092,2026-06-08,2026,6,2026-06,Harbor Kitchen,Milk,Eastbay Foods,240,litre,0.58,139.2,BHD
+IL-01098,2026-06-08,2026,6,2026-06,The Courtyard,Chicken breast,Green Basket,160,kg,2.58,412.8,BHD
+IL-01093,2026-06-09,2026,6,2026-06,Harbor Kitchen,Olive oil,Silverline Traders,61,litre,3.49,212.89,BHD
+IL-01105,2026-06-09,2026,6,2026-06,Olive & Ember,Coffee beans,Harbor Supply,48,kg,10.02,480.96,BHD
+IL-01099,2026-06-09,2026,6,2026-06,The Courtyard,Rice,Northline Wholesale,179,kg,0.79,141.41,BHD
+IL-01094,2026-06-10,2026,6,2026-06,Harbor Kitchen,Cleaning liquid,Silverline Traders,55,litre,1.85,101.75,BHD
+IL-01106,2026-06-10,2026,6,2026-06,Olive & Ember,Chicken breast,Eastbay Foods,254,kg,2.42,614.68,BHD
+IL-01100,2026-06-10,2026,6,2026-06,The Courtyard,Milk,Eastbay Foods,247,litre,0.57,140.79,BHD
+IL-01113,2026-06-11,2026,6,2026-06,Cedar Street,Coffee beans,Northline Wholesale,40,kg,8.89,355.6,BHD
+IL-01095,2026-06-11,2026,6,2026-06,Harbor Kitchen,Napkins,Harbor Supply,171,pack,1.16,198.36,BHD
+IL-01107,2026-06-11,2026,6,2026-06,Olive & Ember,Rice,Silverline Traders,217,kg,0.86,186.62,BHD
+IL-01101,2026-06-11,2026,6,2026-06,The Courtyard,Olive oil,Green Basket,53,litre,3.26,172.78,BHD
+IL-01114,2026-06-12,2026,6,2026-06,Cedar Street,Chicken breast,Green Basket,140,kg,2.56,358.4,BHD
+IL-01096,2026-06-12,2026,6,2026-06,Harbor Kitchen,Frozen vegetables,Eastbay Foods,118,kg,1.33,156.94,BHD
+IL-01108,2026-06-12,2026,6,2026-06,Olive & Ember,Milk,Harbor Supply,232,litre,0.63,146.16,BHD
+IL-01102,2026-06-12,2026,6,2026-06,The Courtyard,Cleaning liquid,Silverline Traders,39,litre,1.87,72.93,BHD
+IL-01115,2026-06-13,2026,6,2026-06,Cedar Street,Rice,Silverline Traders,111,kg,0.85,94.35,BHD
+IL-01121,2026-06-13,2026,6,2026-06,Market Table,Coffee beans,Harbor Supply,47,kg,9.84,462.48,BHD
+IL-01109,2026-06-13,2026,6,2026-06,Olive & Ember,Olive oil,Green Basket,79,litre,3.31,261.49,BHD
+IL-01103,2026-06-13,2026,6,2026-06,The Courtyard,Napkins,Northline Wholesale,134,pack,1.0,134.0,BHD
+IL-01116,2026-06-14,2026,6,2026-06,Cedar Street,Milk,Eastbay Foods,201,litre,0.58,116.58,BHD
+IL-01122,2026-06-14,2026,6,2026-06,Market Table,Chicken breast,Eastbay Foods,224,kg,2.37,530.88,BHD
+IL-01110,2026-06-14,2026,6,2026-06,Olive & Ember,Cleaning liquid,Silverline Traders,60,litre,1.86,111.6,BHD
+IL-01104,2026-06-14,2026,6,2026-06,The Courtyard,Frozen vegetables,Green Basket,94,kg,1.23,115.62,BHD
+IL-01117,2026-06-15,2026,6,2026-06,Cedar Street,Olive oil,Green Basket,44,litre,3.3,145.2,BHD
+IL-01129,2026-06-15,2026,6,2026-06,Juniper Cafe,Coffee beans,Harbor Supply,33,kg,10.04,331.32,BHD
+IL-01123,2026-06-15,2026,6,2026-06,Market Table,Rice,Silverline Traders,151,kg,0.86,129.86,BHD
+IL-01111,2026-06-15,2026,6,2026-06,Olive & Ember,Napkins,Northline Wholesale,140,pack,1.01,141.4,BHD
+IL-01118,2026-06-16,2026,6,2026-06,Cedar Street,Cleaning liquid,Harbor Supply,32,litre,2.17,69.44,BHD
+IL-01130,2026-06-16,2026,6,2026-06,Juniper Cafe,Chicken breast,Eastbay Foods,135,kg,2.4,324.0,BHD
+IL-01124,2026-06-16,2026,6,2026-06,Market Table,Milk,Eastbay Foods,212,litre,0.58,122.96,BHD
+IL-01112,2026-06-16,2026,6,2026-06,Olive & Ember,Frozen vegetables,Eastbay Foods,139,kg,1.34,186.26,BHD
+IL-01119,2026-06-17,2026,6,2026-06,Cedar Street,Napkins,Harbor Supply,90,pack,1.15,103.5,BHD
+IL-01131,2026-06-17,2026,6,2026-06,Juniper Cafe,Rice,Northline Wholesale,98,kg,0.78,76.44,BHD
+IL-01137,2026-06-17,2026,6,2026-06,Lantern House,Coffee beans,Northline Wholesale,33,kg,8.85,292.05,BHD
+IL-01125,2026-06-17,2026,6,2026-06,Market Table,Olive oil,Silverline Traders,72,litre,3.54,254.88,BHD
+IL-01120,2026-06-18,2026,6,2026-06,Cedar Street,Frozen vegetables,Green Basket,103,kg,1.23,126.69,BHD
+IL-01132,2026-06-18,2026,6,2026-06,Juniper Cafe,Milk,Harbor Supply,159,litre,0.63,100.17,BHD
+IL-01138,2026-06-18,2026,6,2026-06,Lantern House,Chicken breast,Green Basket,176,kg,2.55,448.8,BHD
+IL-01145,2026-06-19,2026,6,2026-06,East Pier,Coffee beans,Harbor Supply,42,kg,10.07,422.94,BHD
+IL-01133,2026-06-19,2026,6,2026-06,Juniper Cafe,Olive oil,Green Basket,46,litre,3.25,149.5,BHD
+IL-01139,2026-06-19,2026,6,2026-06,Lantern House,Rice,Silverline Traders,126,kg,0.84,105.84,BHD
+IL-01127,2026-06-19,2026,6,2026-06,Market Table,Napkins,Harbor Supply,135,pack,1.15,155.25,BHD
+IL-01146,2026-06-20,2026,6,2026-06,East Pier,Chicken breast,Green Basket,211,kg,2.55,538.05,BHD
+IL-01134,2026-06-20,2026,6,2026-06,Juniper Cafe,Cleaning liquid,Silverline Traders,32,litre,1.88,60.16,BHD
+IL-01140,2026-06-20,2026,6,2026-06,Lantern House,Milk,Eastbay Foods,178,litre,0.57,101.46,BHD
+IL-01128,2026-06-20,2026,6,2026-06,Market Table,Frozen vegetables,Green Basket,104,kg,1.25,130.0,BHD
+IL-01147,2026-06-21,2026,6,2026-06,East Pier,Rice,Northline Wholesale,177,kg,0.79,139.83,BHD
+IL-01135,2026-06-21,2026,6,2026-06,Juniper Cafe,Napkins,Northline Wholesale,83,pack,1.01,83.83,BHD
+IL-01141,2026-06-21,2026,6,2026-06,Lantern House,Olive oil,Silverline Traders,51,litre,3.48,177.48,BHD
+IL-01148,2026-06-22,2026,6,2026-06,East Pier,Milk,Harbor Supply,245,litre,0.62,151.9,BHD
+IL-01136,2026-06-22,2026,6,2026-06,Juniper Cafe,Frozen vegetables,Green Basket,88,kg,1.24,109.12,BHD
+IL-01142,2026-06-22,2026,6,2026-06,Lantern House,Cleaning liquid,Silverline Traders,35,litre,1.87,65.45,BHD
+IL-01149,2026-06-23,2026,6,2026-06,East Pier,Olive oil,Green Basket,56,litre,3.23,180.88,BHD
+IL-01143,2026-06-23,2026,6,2026-06,Lantern House,Napkins,Northline Wholesale,124,pack,1.02,126.48,BHD
+IL-01214,2026-07-05,2026,7,2026-07,East Pier,Cleaning liquid,Harbor Supply,39,litre,2.16,84.24,BHD
+IL-01153,2026-07-05,2026,7,2026-07,Harbor Kitchen,Coffee beans,Northline Wholesale,56,kg,8.83,494.48,BHD
+IL-01208,2026-07-05,2026,7,2026-07,Lantern House,Frozen vegetables,Eastbay Foods,91,kg,1.34,121.94,BHD
+IL-01215,2026-07-06,2026,7,2026-07,East Pier,Napkins,Northline Wholesale,127,pack,1.01,128.27,BHD
+IL-01154,2026-07-06,2026,7,2026-07,Harbor Kitchen,Chicken breast,Green Basket,237,kg,2.57,609.09,BHD
+IL-01216,2026-07-07,2026,7,2026-07,East Pier,Frozen vegetables,Green Basket,93,kg,1.25,116.25,BHD
+IL-01155,2026-07-07,2026,7,2026-07,Harbor Kitchen,Rice,Silverline Traders,179,kg,0.84,150.36,BHD
+IL-01161,2026-07-07,2026,7,2026-07,The Courtyard,Coffee beans,Northline Wholesale,38,kg,8.78,333.64,BHD
+IL-01156,2026-07-08,2026,7,2026-07,Harbor Kitchen,Milk,Eastbay Foods,267,litre,0.58,154.86,BHD
+IL-01162,2026-07-08,2026,7,2026-07,The Courtyard,Chicken breast,Green Basket,164,kg,2.62,429.68,BHD
+IL-01157,2026-07-09,2026,7,2026-07,Harbor Kitchen,Olive oil,Green Basket,63,litre,3.24,204.12,BHD
+IL-01169,2026-07-09,2026,7,2026-07,Olive & Ember,Coffee beans,Harbor Supply,50,kg,9.94,497.0,BHD
+IL-01163,2026-07-09,2026,7,2026-07,The Courtyard,Rice,Silverline Traders,132,kg,0.84,110.88,BHD
+IL-01158,2026-07-10,2026,7,2026-07,Harbor Kitchen,Cleaning liquid,Harbor Supply,48,litre,2.16,103.68,BHD
+IL-01170,2026-07-10,2026,7,2026-07,Olive & Ember,Chicken breast,Eastbay Foods,265,kg,2.38,630.7,BHD
+IL-01164,2026-07-10,2026,7,2026-07,The Courtyard,Milk,Harbor Supply,223,litre,0.63,140.49,BHD
+IL-01177,2026-07-11,2026,7,2026-07,Cedar Street,Coffee beans,Northline Wholesale,31,kg,8.91,276.21,BHD
+IL-01159,2026-07-11,2026,7,2026-07,Harbor Kitchen,Napkins,Harbor Supply,130,pack,1.15,149.5,BHD
+IL-01171,2026-07-11,2026,7,2026-07,Olive & Ember,Rice,Silverline Traders,212,kg,0.85,180.2,BHD
+IL-01165,2026-07-11,2026,7,2026-07,The Courtyard,Olive oil,Green Basket,53,litre,3.3,174.9,BHD
+IL-01178,2026-07-12,2026,7,2026-07,Cedar Street,Chicken breast,Green Basket,142,kg,2.6,369.2,BHD
+IL-01160,2026-07-12,2026,7,2026-07,Harbor Kitchen,Frozen vegetables,Green Basket,132,kg,1.22,161.04,BHD
+IL-01172,2026-07-12,2026,7,2026-07,Olive & Ember,Milk,Eastbay Foods,301,litre,0.58,174.58,BHD
+IL-01166,2026-07-12,2026,7,2026-07,The Courtyard,Cleaning liquid,Silverline Traders,38,litre,1.88,71.44,BHD
+IL-01179,2026-07-13,2026,7,2026-07,Cedar Street,Rice,Northline Wholesale,115,kg,0.8,92.0,BHD
+IL-01185,2026-07-13,2026,7,2026-07,Market Table,Coffee beans,Northline Wholesale,44,kg,8.83,388.52,BHD
+IL-01173,2026-07-13,2026,7,2026-07,Olive & Ember,Olive oil,Silverline Traders,66,litre,3.52,232.32,BHD
+IL-01167,2026-07-13,2026,7,2026-07,The Courtyard,Napkins,Northline Wholesale,124,pack,1.02,126.48,BHD
+IL-01180,2026-07-14,2026,7,2026-07,Cedar Street,Milk,Eastbay Foods,165,litre,0.57,94.05,BHD
+IL-01186,2026-07-14,2026,7,2026-07,Market Table,Chicken breast,Eastbay Foods,203,kg,2.42,491.26,BHD
+IL-01174,2026-07-14,2026,7,2026-07,Olive & Ember,Cleaning liquid,Silverline Traders,50,litre,1.89,94.5,BHD
+IL-01168,2026-07-14,2026,7,2026-07,The Courtyard,Frozen vegetables,Green Basket,106,kg,1.24,131.44,BHD
+IL-01181,2026-07-15,2026,7,2026-07,Cedar Street,Olive oil,Silverline Traders,48,litre,3.53,169.44,BHD
+IL-01193,2026-07-15,2026,7,2026-07,Juniper Cafe,Coffee beans,Northline Wholesale,25,kg,8.74,218.5,BHD
+IL-01187,2026-07-15,2026,7,2026-07,Market Table,Rice,Silverline Traders,166,kg,0.86,142.76,BHD
+IL-01175,2026-07-15,2026,7,2026-07,Olive & Ember,Napkins,Northline Wholesale,150,pack,1.01,151.5,BHD
+IL-01182,2026-07-16,2026,7,2026-07,Cedar Street,Cleaning liquid,Silverline Traders,29,litre,1.86,53.94,BHD
+IL-01194,2026-07-16,2026,7,2026-07,Juniper Cafe,Chicken breast,Green Basket,127,kg,2.62,332.74,BHD
+IL-01188,2026-07-16,2026,7,2026-07,Market Table,Milk,Harbor Supply,202,litre,0.63,127.26,BHD
+IL-01176,2026-07-16,2026,7,2026-07,Olive & Ember,Frozen vegetables,Green Basket,131,kg,1.25,163.75,BHD
+IL-01183,2026-07-17,2026,7,2026-07,Cedar Street,Napkins,Harbor Supply,91,pack,1.15,104.65,BHD
+IL-01195,2026-07-17,2026,7,2026-07,Juniper Cafe,Rice,Silverline Traders,117,kg,0.86,100.62,BHD
+IL-01201,2026-07-17,2026,7,2026-07,Lantern House,Coffee beans,Northline Wholesale,31,kg,8.91,276.21,BHD
+IL-01189,2026-07-17,2026,7,2026-07,Market Table,Olive oil,Silverline Traders,71,litre,3.48,247.08,BHD
+IL-01184,2026-07-18,2026,7,2026-07,Cedar Street,Frozen vegetables,Eastbay Foods,103,kg,1.36,140.08,BHD
+IL-01196,2026-07-18,2026,7,2026-07,Juniper Cafe,Milk,Harbor Supply,149,litre,0.62,92.38,BHD
+IL-01202,2026-07-18,2026,7,2026-07,Lantern House,Chicken breast,Eastbay Foods,175,kg,2.41,421.75,BHD
+IL-01190,2026-07-18,2026,7,2026-07,Market Table,Cleaning liquid,Silverline Traders,47,litre,1.9,89.3,BHD
+IL-01209,2026-07-19,2026,7,2026-07,East Pier,Coffee beans,Harbor Supply,38,kg,10.09,383.42,BHD
+IL-01197,2026-07-19,2026,7,2026-07,Juniper Cafe,Olive oil,Silverline Traders,39,litre,3.51,136.89,BHD
+IL-01203,2026-07-19,2026,7,2026-07,Lantern House,Rice,Silverline Traders,123,kg,0.84,103.32,BHD
+IL-01191,2026-07-19,2026,7,2026-07,Market Table,Napkins,Harbor Supply,143,pack,1.14,163.02,BHD
+IL-01210,2026-07-20,2026,7,2026-07,East Pier,Chicken breast,Eastbay Foods,210,kg,2.38,499.8,BHD
+IL-01198,2026-07-20,2026,7,2026-07,Juniper Cafe,Cleaning liquid,Harbor Supply,26,litre,2.13,55.38,BHD
+IL-01204,2026-07-20,2026,7,2026-07,Lantern House,Milk,Eastbay Foods,183,litre,0.57,104.31,BHD
+IL-01192,2026-07-20,2026,7,2026-07,Market Table,Frozen vegetables,Eastbay Foods,137,kg,1.36,186.32,BHD
+IL-01211,2026-07-21,2026,7,2026-07,East Pier,Rice,Northline Wholesale,161,kg,0.79,127.19,BHD
+IL-01199,2026-07-21,2026,7,2026-07,Juniper Cafe,Napkins,Harbor Supply,79,pack,1.15,90.85,BHD
+IL-01205,2026-07-21,2026,7,2026-07,Lantern House,Olive oil,Green Basket,55,litre,3.29,180.95,BHD
+IL-01212,2026-07-22,2026,7,2026-07,East Pier,Milk,Harbor Supply,233,litre,0.63,146.79,BHD
+IL-01200,2026-07-22,2026,7,2026-07,Juniper Cafe,Frozen vegetables,Green Basket,65,kg,1.25,81.25,BHD
+IL-01206,2026-07-22,2026,7,2026-07,Lantern House,Cleaning liquid,Harbor Supply,32,litre,2.15,68.8,BHD
+IL-01213,2026-07-23,2026,7,2026-07,East Pier,Olive oil,Silverline Traders,51,litre,3.49,177.99,BHD
+IL-01207,2026-07-23,2026,7,2026-07,Lantern House,Napkins,Northline Wholesale,93,pack,1.01,93.93,BHD
+IL-01278,2026-08-05,2026,8,2026-08,East Pier,Cleaning liquid,Silverline Traders,37,litre,1.89,69.93,BHD
+IL-01217,2026-08-05,2026,8,2026-08,Harbor Kitchen,Coffee beans,Northline Wholesale,56,kg,8.9,498.4,BHD
+IL-01272,2026-08-05,2026,8,2026-08,Lantern House,Frozen vegetables,Eastbay Foods,106,kg,1.36,144.16,BHD
+IL-01279,2026-08-06,2026,8,2026-08,East Pier,Napkins,Northline Wholesale,146,pack,1.0,146.0,BHD
+IL-01218,2026-08-06,2026,8,2026-08,Harbor Kitchen,Chicken breast,Green Basket,199,kg,2.62,521.38,BHD
+IL-01280,2026-08-07,2026,8,2026-08,East Pier,Frozen vegetables,Eastbay Foods,97,kg,1.34,129.98,BHD
+IL-01219,2026-08-07,2026,8,2026-08,Harbor Kitchen,Rice,Northline Wholesale,151,kg,0.79,119.29,BHD
+IL-01225,2026-08-07,2026,8,2026-08,The Courtyard,Coffee beans,Northline Wholesale,47,kg,8.95,420.65,BHD
+IL-01220,2026-08-08,2026,8,2026-08,Harbor Kitchen,Milk,Eastbay Foods,277,litre,0.58,160.66,BHD
+IL-01226,2026-08-08,2026,8,2026-08,The Courtyard,Chicken breast,Green Basket,197,kg,2.58,508.26,BHD
+IL-01221,2026-08-09,2026,8,2026-08,Harbor Kitchen,Olive oil,Green Basket,68,litre,3.27,222.36,BHD
+IL-01227,2026-08-09,2026,8,2026-08,The Courtyard,Rice,Northline Wholesale,122,kg,0.8,97.6,BHD
+IL-01222,2026-08-10,2026,8,2026-08,Harbor Kitchen,Cleaning liquid,Harbor Supply,42,litre,2.16,90.72,BHD
+IL-01234,2026-08-10,2026,8,2026-08,Olive & Ember,Chicken breast,Eastbay Foods,190,kg,2.44,463.6,BHD
+IL-01228,2026-08-10,2026,8,2026-08,The Courtyard,Milk,Eastbay Foods,169,litre,0.58,98.02,BHD
+IL-01241,2026-08-11,2026,8,2026-08,Cedar Street,Coffee beans,Northline Wholesale,30,kg,8.91,267.3,BHD
+IL-01223,2026-08-11,2026,8,2026-08,Harbor Kitchen,Napkins,Northline Wholesale,133,pack,1.03,136.99,BHD
+IL-01235,2026-08-11,2026,8,2026-08,Olive & Ember,Rice,Silverline Traders,159,kg,0.86,136.74,BHD
+IL-01229,2026-08-11,2026,8,2026-08,The Courtyard,Olive oil,Silverline Traders,50,litre,3.57,178.5,BHD
+IL-01242,2026-08-12,2026,8,2026-08,Cedar Street,Chicken breast,Eastbay Foods,132,kg,2.39,315.48,BHD
+IL-01224,2026-08-12,2026,8,2026-08,Harbor Kitchen,Frozen vegetables,Green Basket,130,kg,1.24,161.2,BHD
+IL-01236,2026-08-12,2026,8,2026-08,Olive & Ember,Milk,Harbor Supply,262,litre,0.63,165.06,BHD
+IL-01230,2026-08-12,2026,8,2026-08,The Courtyard,Cleaning liquid,Silverline Traders,36,litre,1.9,68.4,BHD
+IL-01243,2026-08-13,2026,8,2026-08,Cedar Street,Rice,Silverline Traders,127,kg,0.86,109.22,BHD
+IL-01249,2026-08-13,2026,8,2026-08,Market Table,Coffee beans,Harbor Supply,44,kg,10.03,441.32,BHD
+IL-01237,2026-08-13,2026,8,2026-08,Olive & Ember,Olive oil,Green Basket,70,litre,3.26,228.2,BHD
+IL-01231,2026-08-13,2026,8,2026-08,The Courtyard,Napkins,Harbor Supply,124,pack,1.16,143.84,BHD
+IL-01244,2026-08-14,2026,8,2026-08,Cedar Street,Milk,Eastbay Foods,186,litre,0.58,107.88,BHD
+IL-01250,2026-08-14,2026,8,2026-08,Market Table,Chicken breast,Green Basket,164,kg,2.57,421.48,BHD
+IL-01238,2026-08-14,2026,8,2026-08,Olive & Ember,Cleaning liquid,Harbor Supply,55,litre,2.16,118.8,BHD
+IL-01232,2026-08-14,2026,8,2026-08,The Courtyard,Frozen vegetables,Green Basket,107,kg,1.22,130.54,BHD
+IL-01245,2026-08-15,2026,8,2026-08,Cedar Street,Olive oil,Silverline Traders,51,litre,3.54,180.54,BHD
+IL-01257,2026-08-15,2026,8,2026-08,Juniper Cafe,Coffee beans,Northline Wholesale,30,kg,8.82,264.6,BHD
+IL-01251,2026-08-15,2026,8,2026-08,Market Table,Rice,Northline Wholesale,135,kg,0.79,106.65,BHD
+IL-01239,2026-08-15,2026,8,2026-08,Olive & Ember,Napkins,Northline Wholesale,152,pack,1.02,155.04,BHD
+IL-01246,2026-08-16,2026,8,2026-08,Cedar Street,Cleaning liquid,Silverline Traders,29,litre,1.87,54.23,BHD
+IL-01258,2026-08-16,2026,8,2026-08,Juniper Cafe,Chicken breast,Eastbay Foods,134,kg,2.39,320.26,BHD
+IL-01252,2026-08-16,2026,8,2026-08,Market Table,Milk,Harbor Supply,261,litre,0.64,167.04,BHD
+IL-01240,2026-08-16,2026,8,2026-08,Olive & Ember,Frozen vegetables,Green Basket,131,kg,1.24,162.44,BHD
+IL-01247,2026-08-17,2026,8,2026-08,Cedar Street,Napkins,Northline Wholesale,95,pack,1.01,95.95,BHD
+IL-01259,2026-08-17,2026,8,2026-08,Juniper Cafe,Rice,Northline Wholesale,95,kg,0.79,75.05,BHD
+IL-01265,2026-08-17,2026,8,2026-08,Lantern House,Coffee beans,Northline Wholesale,33,kg,8.96,295.68,BHD
+IL-01253,2026-08-17,2026,8,2026-08,Market Table,Olive oil,Silverline Traders,60,litre,3.55,213.0,BHD
+IL-01248,2026-08-18,2026,8,2026-08,Cedar Street,Frozen vegetables,Green Basket,89,kg,1.23,109.47,BHD
+IL-01260,2026-08-18,2026,8,2026-08,Juniper Cafe,Milk,Eastbay Foods,159,litre,0.58,92.22,BHD
+IL-01266,2026-08-18,2026,8,2026-08,Lantern House,Chicken breast,Eastbay Foods,166,kg,2.4,398.4,BHD
+IL-01254,2026-08-18,2026,8,2026-08,Market Table,Cleaning liquid,Harbor Supply,42,litre,2.17,91.14,BHD
+IL-01273,2026-08-19,2026,8,2026-08,East Pier,Coffee beans,Harbor Supply,46,kg,10.03,461.38,BHD
+IL-01261,2026-08-19,2026,8,2026-08,Juniper Cafe,Olive oil,Green Basket,44,litre,3.31,145.64,BHD
+IL-01267,2026-08-19,2026,8,2026-08,Lantern House,Rice,Northline Wholesale,123,kg,0.79,97.17,BHD
+IL-01255,2026-08-19,2026,8,2026-08,Market Table,Napkins,Harbor Supply,140,pack,1.17,163.8,BHD
+IL-01274,2026-08-20,2026,8,2026-08,East Pier,Chicken breast,Green Basket,208,kg,2.59,538.72,BHD
+IL-01262,2026-08-20,2026,8,2026-08,Juniper Cafe,Cleaning liquid,Harbor Supply,25,litre,2.15,53.75,BHD
+IL-01268,2026-08-20,2026,8,2026-08,Lantern House,Milk,Harbor Supply,167,litre,0.64,106.88,BHD
+IL-01275,2026-08-21,2026,8,2026-08,East Pier,Rice,Northline Wholesale,157,kg,0.81,127.17,BHD
+IL-01263,2026-08-21,2026,8,2026-08,Juniper Cafe,Napkins,Harbor Supply,76,pack,1.14,86.64,BHD
+IL-01269,2026-08-21,2026,8,2026-08,Lantern House,Olive oil,Silverline Traders,46,litre,3.54,162.84,BHD
+IL-01276,2026-08-22,2026,8,2026-08,East Pier,Milk,Harbor Supply,181,litre,0.63,114.03,BHD
+IL-01264,2026-08-22,2026,8,2026-08,Juniper Cafe,Frozen vegetables,Eastbay Foods,78,kg,1.35,105.3,BHD
+IL-01270,2026-08-22,2026,8,2026-08,Lantern House,Cleaning liquid,Silverline Traders,31,litre,1.89,58.59,BHD
+IL-01277,2026-08-23,2026,8,2026-08,East Pier,Olive oil,Silverline Traders,50,litre,3.5,175.0,BHD
+IL-01271,2026-08-23,2026,8,2026-08,Lantern House,Napkins,Northline Wholesale,96,pack,1.03,98.88,BHD
+IL-01342,2026-09-05,2026,9,2026-09,East Pier,Cleaning liquid,Silverline Traders,48,litre,1.9,91.2,BHD
+IL-01281,2026-09-05,2026,9,2026-09,Harbor Kitchen,Coffee beans,Northline Wholesale,55,kg,8.97,493.35,BHD
+IL-01336,2026-09-05,2026,9,2026-09,Lantern House,Frozen vegetables,Eastbay Foods,77,kg,1.37,105.49,BHD
+IL-01343,2026-09-06,2026,9,2026-09,East Pier,Napkins,Harbor Supply,133,pack,1.14,151.62,BHD
+IL-01282,2026-09-06,2026,9,2026-09,Harbor Kitchen,Chicken breast,Eastbay Foods,200,kg,2.43,486.0,BHD
+IL-01344,2026-09-07,2026,9,2026-09,East Pier,Frozen vegetables,Eastbay Foods,126,kg,1.35,170.1,BHD
+IL-01283,2026-09-07,2026,9,2026-09,Harbor Kitchen,Rice,Silverline Traders,148,kg,0.85,125.8,BHD
+IL-01289,2026-09-07,2026,9,2026-09,The Courtyard,Coffee beans,Harbor Supply,38,kg,10.12,384.56,BHD
+IL-01284,2026-09-08,2026,9,2026-09,Harbor Kitchen,Milk,Eastbay Foods,208,litre,0.58,120.64,BHD
+IL-01290,2026-09-08,2026,9,2026-09,The Courtyard,Chicken breast,Green Basket,170,kg,2.63,447.1,BHD
+IL-01285,2026-09-09,2026,9,2026-09,Harbor Kitchen,Olive oil,Silverline Traders,69,litre,3.54,244.26,BHD
+IL-01297,2026-09-09,2026,9,2026-09,Olive & Ember,Coffee beans,Harbor Supply,59,kg,10.11,596.49,BHD
+IL-01291,2026-09-09,2026,9,2026-09,The Courtyard,Rice,Northline Wholesale,162,kg,0.79,127.98,BHD
+IL-01286,2026-09-10,2026,9,2026-09,Harbor Kitchen,Cleaning liquid,Silverline Traders,46,litre,1.88,86.48,BHD
+IL-01298,2026-09-10,2026,9,2026-09,Olive & Ember,Chicken breast,Eastbay Foods,214,kg,2.44,522.16,BHD
+IL-01292,2026-09-10,2026,9,2026-09,The Courtyard,Milk,Harbor Supply,196,litre,0.63,123.48,BHD
+IL-01305,2026-09-11,2026,9,2026-09,Cedar Street,Coffee beans,Northline Wholesale,35,kg,8.92,312.2,BHD
+IL-01287,2026-09-11,2026,9,2026-09,Harbor Kitchen,Napkins,Northline Wholesale,140,pack,1.02,142.8,BHD
+IL-01299,2026-09-11,2026,9,2026-09,Olive & Ember,Rice,Northline Wholesale,173,kg,0.8,138.4,BHD
+IL-01293,2026-09-11,2026,9,2026-09,The Courtyard,Olive oil,Silverline Traders,48,litre,3.54,169.92,BHD
+IL-01306,2026-09-12,2026,9,2026-09,Cedar Street,Chicken breast,Eastbay Foods,156,kg,2.39,372.84,BHD
+IL-01288,2026-09-12,2026,9,2026-09,Harbor Kitchen,Frozen vegetables,Eastbay Foods,116,kg,1.34,155.44,BHD
+IL-01300,2026-09-12,2026,9,2026-09,Olive & Ember,Milk,Harbor Supply,230,litre,0.63,144.9,BHD
+IL-01294,2026-09-12,2026,9,2026-09,The Courtyard,Cleaning liquid,Silverline Traders,34,litre,1.89,64.26,BHD
+IL-01307,2026-09-13,2026,9,2026-09,Cedar Street,Rice,Silverline Traders,100,kg,0.86,86.0,BHD
+IL-01313,2026-09-13,2026,9,2026-09,Market Table,Coffee beans,Harbor Supply,39,kg,10.06,392.34,BHD
+IL-01301,2026-09-13,2026,9,2026-09,Olive & Ember,Olive oil,Silverline Traders,68,litre,3.57,242.76,BHD
+IL-01295,2026-09-13,2026,9,2026-09,The Courtyard,Napkins,Harbor Supply,98,pack,1.17,114.66,BHD
+IL-01308,2026-09-14,2026,9,2026-09,Cedar Street,Milk,Eastbay Foods,146,litre,0.58,84.68,BHD
+IL-01314,2026-09-14,2026,9,2026-09,Market Table,Chicken breast,Green Basket,200,kg,2.6,520.0,BHD
+IL-01302,2026-09-14,2026,9,2026-09,Olive & Ember,Cleaning liquid,Silverline Traders,55,litre,1.91,105.05,BHD
+IL-01296,2026-09-14,2026,9,2026-09,The Courtyard,Frozen vegetables,Eastbay Foods,88,kg,1.37,120.56,BHD
+IL-01309,2026-09-15,2026,9,2026-09,Cedar Street,Olive oil,Green Basket,38,litre,3.33,126.54,BHD
+IL-01321,2026-09-15,2026,9,2026-09,Juniper Cafe,Coffee beans,Northline Wholesale,25,kg,8.81,220.25,BHD
+IL-01315,2026-09-15,2026,9,2026-09,Market Table,Rice,Northline Wholesale,184,kg,0.8,147.2,BHD
+IL-01303,2026-09-15,2026,9,2026-09,Olive & Ember,Napkins,Northline Wholesale,169,pack,1.03,174.07,BHD
+IL-01310,2026-09-16,2026,9,2026-09,Cedar Street,Cleaning liquid,Silverline Traders,32,litre,1.9,60.8,BHD
+IL-01322,2026-09-16,2026,9,2026-09,Juniper Cafe,Chicken breast,Green Basket,114,kg,2.59,295.26,BHD
+IL-01316,2026-09-16,2026,9,2026-09,Market Table,Milk,Harbor Supply,207,litre,0.63,130.41,BHD
+IL-01304,2026-09-16,2026,9,2026-09,Olive & Ember,Frozen vegetables,Green Basket,121,kg,1.23,148.83,BHD
+IL-01311,2026-09-17,2026,9,2026-09,Cedar Street,Napkins,Northline Wholesale,103,pack,1.02,105.06,BHD
+IL-01323,2026-09-17,2026,9,2026-09,Juniper Cafe,Rice,Northline Wholesale,87,kg,0.81,70.47,BHD
+IL-01329,2026-09-17,2026,9,2026-09,Lantern House,Coffee beans,Harbor Supply,42,kg,9.98,419.16,BHD
+IL-01317,2026-09-17,2026,9,2026-09,Market Table,Olive oil,Green Basket,51,litre,3.34,170.34,BHD
+IL-01312,2026-09-18,2026,9,2026-09,Cedar Street,Frozen vegetables,Green Basket,82,kg,1.23,100.86,BHD
+IL-01324,2026-09-18,2026,9,2026-09,Juniper Cafe,Milk,Eastbay Foods,139,litre,0.58,80.62,BHD
+IL-01330,2026-09-18,2026,9,2026-09,Lantern House,Chicken breast,Green Basket,167,kg,2.61,435.87,BHD
+IL-01318,2026-09-18,2026,9,2026-09,Market Table,Cleaning liquid,Silverline Traders,51,litre,1.87,95.37,BHD
+IL-01337,2026-09-19,2026,9,2026-09,East Pier,Coffee beans,Northline Wholesale,52,kg,8.86,460.72,BHD
+IL-01325,2026-09-19,2026,9,2026-09,Juniper Cafe,Olive oil,Green Basket,42,litre,3.28,137.76,BHD
+IL-01331,2026-09-19,2026,9,2026-09,Lantern House,Rice,Silverline Traders,133,kg,0.86,114.38,BHD
+IL-01319,2026-09-19,2026,9,2026-09,Market Table,Napkins,Harbor Supply,117,pack,1.15,134.55,BHD
+IL-01338,2026-09-20,2026,9,2026-09,East Pier,Chicken breast,Green Basket,169,kg,2.61,441.09,BHD
+IL-01326,2026-09-20,2026,9,2026-09,Juniper Cafe,Cleaning liquid,Harbor Supply,27,litre,2.17,58.59,BHD
+IL-01332,2026-09-20,2026,9,2026-09,Lantern House,Milk,Harbor Supply,173,litre,0.64,110.72,BHD
+IL-01320,2026-09-20,2026,9,2026-09,Market Table,Frozen vegetables,Eastbay Foods,99,kg,1.34,132.66,BHD
+IL-01339,2026-09-21,2026,9,2026-09,East Pier,Rice,Northline Wholesale,157,kg,0.81,127.17,BHD
+IL-01327,2026-09-21,2026,9,2026-09,Juniper Cafe,Napkins,Harbor Supply,70,pack,1.16,81.2,BHD
+IL-01333,2026-09-21,2026,9,2026-09,Lantern House,Olive oil,Silverline Traders,48,litre,3.53,169.44,BHD
+IL-01340,2026-09-22,2026,9,2026-09,East Pier,Milk,Eastbay Foods,194,litre,0.57,110.58,BHD
+IL-01328,2026-09-22,2026,9,2026-09,Juniper Cafe,Frozen vegetables,Eastbay Foods,83,kg,1.37,113.71,BHD
+IL-01334,2026-09-22,2026,9,2026-09,Lantern House,Cleaning liquid,Silverline Traders,34,litre,1.9,64.6,BHD
+IL-01341,2026-09-23,2026,9,2026-09,East Pier,Olive oil,Green Basket,66,litre,3.35,221.1,BHD
+IL-01335,2026-09-23,2026,9,2026-09,Lantern House,Napkins,Northline Wholesale,116,pack,1.01,117.16,BHD
