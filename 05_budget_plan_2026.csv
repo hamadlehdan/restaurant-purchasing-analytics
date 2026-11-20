@@ -1,0 +1,577 @@
+year,month,month_key,venue,product,budget_bhd
+2026,1,2026-01,Harbor Kitchen,Coffee beans,428.51
+2026,1,2026-01,Harbor Kitchen,Chicken breast,474.62
+2026,1,2026-01,Harbor Kitchen,Rice,130.98
+2026,1,2026-01,Harbor Kitchen,Milk,159.39
+2026,1,2026-01,Harbor Kitchen,Olive oil,252.18
+2026,1,2026-01,Harbor Kitchen,Cleaning liquid,95.63
+2026,1,2026-01,Harbor Kitchen,Napkins,145.15
+2026,1,2026-01,Harbor Kitchen,Frozen vegetables,157.5
+2026,1,2026-01,The Courtyard,Coffee beans,340.89
+2026,1,2026-01,The Courtyard,Chicken breast,437.92
+2026,1,2026-01,The Courtyard,Rice,126.95
+2026,1,2026-01,The Courtyard,Milk,154.26
+2026,1,2026-01,The Courtyard,Olive oil,155.74
+2026,1,2026-01,The Courtyard,Cleaning liquid,66.52
+2026,1,2026-01,The Courtyard,Napkins,112.9
+2026,1,2026-01,The Courtyard,Frozen vegetables,122.22
+2026,1,2026-01,Olive & Ember,Coffee beans,492.16
+2026,1,2026-01,Olive & Ember,Chicken breast,651.11
+2026,1,2026-01,Olive & Ember,Rice,151.64
+2026,1,2026-01,Olive & Ember,Milk,136.08
+2026,1,2026-01,Olive & Ember,Olive oil,306.77
+2026,1,2026-01,Olive & Ember,Cleaning liquid,121.13
+2026,1,2026-01,Olive & Ember,Napkins,157.94
+2026,1,2026-01,Olive & Ember,Frozen vegetables,165.06
+2026,1,2026-01,Cedar Street,Coffee beans,337.08
+2026,1,2026-01,Cedar Street,Chicken breast,375.4
+2026,1,2026-01,Cedar Street,Rice,104.3
+2026,1,2026-01,Cedar Street,Milk,122.98
+2026,1,2026-01,Cedar Street,Olive oil,172.73
+2026,1,2026-01,Cedar Street,Cleaning liquid,90.41
+2026,1,2026-01,Cedar Street,Napkins,122.22
+2026,1,2026-01,Cedar Street,Frozen vegetables,152.46
+2026,1,2026-01,Market Table,Coffee beans,405.83
+2026,1,2026-01,Market Table,Chicken breast,535.63
+2026,1,2026-01,Market Table,Rice,161.34
+2026,1,2026-01,Market Table,Milk,148.68
+2026,1,2026-01,Market Table,Olive oil,212.06
+2026,1,2026-01,Market Table,Cleaning liquid,81.72
+2026,1,2026-01,Market Table,Napkins,171.68
+2026,1,2026-01,Market Table,Frozen vegetables,139.86
+2026,1,2026-01,Juniper Cafe,Coffee beans,290.68
+2026,1,2026-01,Juniper Cafe,Chicken breast,286.13
+2026,1,2026-01,Juniper Cafe,Rice,113.3
+2026,1,2026-01,Juniper Cafe,Milk,108.36
+2026,1,2026-01,Juniper Cafe,Olive oil,143.79
+2026,1,2026-01,Juniper Cafe,Cleaning liquid,52.92
+2026,1,2026-01,Juniper Cafe,Napkins,103.89
+2026,1,2026-01,Juniper Cafe,Frozen vegetables,108.36
+2026,1,2026-01,Lantern House,Coffee beans,361.75
+2026,1,2026-01,Lantern House,Chicken breast,494.19
+2026,1,2026-01,Lantern House,Rice,147.28
+2026,1,2026-01,Lantern House,Milk,121.85
+2026,1,2026-01,Lantern House,Olive oil,181.1
+2026,1,2026-01,Lantern House,Cleaning liquid,68.8
+2026,1,2026-01,Lantern House,Napkins,162.86
+2026,1,2026-01,Lantern House,Frozen vegetables,144.43
+2026,1,2026-01,East Pier,Coffee beans,493.19
+2026,1,2026-01,East Pier,Chicken breast,526.59
+2026,1,2026-01,East Pier,Rice,169.79
+2026,1,2026-01,East Pier,Milk,154.35
+2026,1,2026-01,East Pier,Olive oil,240.98
+2026,1,2026-01,East Pier,Cleaning liquid,93.64
+2026,1,2026-01,East Pier,Napkins,198.0
+2026,1,2026-01,East Pier,Frozen vegetables,196.7
+2026,2,2026-02,Harbor Kitchen,Coffee beans,542.62
+2026,2,2026-02,Harbor Kitchen,Chicken breast,619.57
+2026,2,2026-02,Harbor Kitchen,Rice,168.2
+2026,2,2026-02,Harbor Kitchen,Milk,154.19
+2026,2,2026-02,Harbor Kitchen,Olive oil,203.11
+2026,2,2026-02,Harbor Kitchen,Cleaning liquid,92.74
+2026,2,2026-02,Harbor Kitchen,Napkins,155.38
+2026,2,2026-02,Harbor Kitchen,Frozen vegetables,173.31
+2026,2,2026-02,The Courtyard,Coffee beans,351.72
+2026,2,2026-02,The Courtyard,Chicken breast,422.73
+2026,2,2026-02,The Courtyard,Rice,141.49
+2026,2,2026-02,The Courtyard,Milk,132.3
+2026,2,2026-02,The Courtyard,Olive oil,181.1
+2026,2,2026-02,The Courtyard,Cleaning liquid,99.23
+2026,2,2026-02,The Courtyard,Napkins,159.39
+2026,2,2026-02,The Courtyard,Frozen vegetables,151.19
+2026,2,2026-02,Olive & Ember,Coffee beans,459.82
+2026,2,2026-02,Olive & Ember,Chicken breast,632.94
+2026,2,2026-02,Olive & Ember,Rice,209.92
+2026,2,2026-02,Olive & Ember,Milk,185.98
+2026,2,2026-02,Olive & Ember,Olive oil,301.6
+2026,2,2026-02,Olive & Ember,Cleaning liquid,125.43
+2026,2,2026-02,Olive & Ember,Napkins,156.24
+2026,2,2026-02,Olive & Ember,Frozen vegetables,173.38
+2026,2,2026-02,Cedar Street,Coffee beans,307.23
+2026,2,2026-02,Cedar Street,Chicken breast,391.52
+2026,2,2026-02,Cedar Street,Rice,135.95
+2026,2,2026-02,Cedar Street,Milk,110.25
+2026,2,2026-02,Cedar Street,Olive oil,163.86
+2026,2,2026-02,Cedar Street,Cleaning liquid,79.76
+2026,2,2026-02,Cedar Street,Napkins,128.02
+2026,2,2026-02,Cedar Street,Frozen vegetables,146.92
+2026,2,2026-02,Market Table,Coffee beans,470.42
+2026,2,2026-02,Market Table,Chicken breast,637.25
+2026,2,2026-02,Market Table,Rice,160.08
+2026,2,2026-02,Market Table,Milk,149.94
+2026,2,2026-02,Market Table,Olive oil,219.62
+2026,2,2026-02,Market Table,Cleaning liquid,87.42
+2026,2,2026-02,Market Table,Napkins,185.41
+2026,2,2026-02,Market Table,Frozen vegetables,148.65
+2026,2,2026-02,Juniper Cafe,Coffee beans,364.05
+2026,2,2026-02,Juniper Cafe,Chicken breast,341.11
+2026,2,2026-02,Juniper Cafe,Rice,98.78
+2026,2,2026-02,Juniper Cafe,Milk,112.14
+2026,2,2026-02,Juniper Cafe,Olive oil,142.76
+2026,2,2026-02,Juniper Cafe,Cleaning liquid,65.84
+2026,2,2026-02,Juniper Cafe,Napkins,103.82
+2026,2,2026-02,Juniper Cafe,Frozen vegetables,125.58
+2026,2,2026-02,Lantern House,Coffee beans,331.92
+2026,2,2026-02,Lantern House,Chicken breast,485.32
+2026,2,2026-02,Lantern House,Rice,141.18
+2026,2,2026-02,Lantern House,Milk,117.23
+2026,2,2026-02,Lantern House,Olive oil,179.6
+2026,2,2026-02,Lantern House,Cleaning liquid,89.32
+2026,2,2026-02,Lantern House,Napkins,140.97
+2026,2,2026-02,Lantern House,Frozen vegetables,169.09
+2026,2,2026-02,East Pier,Coffee beans,412.87
+2026,2,2026-02,East Pier,Chicken breast,577.5
+2026,2,2026-02,East Pier,Rice,142.0
+2026,2,2026-02,East Pier,Milk,140.49
+2026,2,2026-02,East Pier,Olive oil,246.02
+2026,2,2026-02,East Pier,Cleaning liquid,125.69
+2026,2,2026-02,East Pier,Napkins,147.0
+2026,2,2026-02,East Pier,Frozen vegetables,210.67
+2026,3,2026-03,Harbor Kitchen,Coffee beans,507.47
+2026,3,2026-03,Harbor Kitchen,Chicken breast,591.36
+2026,3,2026-03,Harbor Kitchen,Rice,163.84
+2026,3,2026-03,Harbor Kitchen,Milk,179.55
+2026,3,2026-03,Harbor Kitchen,Olive oil,218.96
+2026,3,2026-03,Harbor Kitchen,Cleaning liquid,111.38
+2026,3,2026-03,Harbor Kitchen,Napkins,178.02
+2026,3,2026-03,Harbor Kitchen,Frozen vegetables,153.69
+2026,3,2026-03,The Courtyard,Coffee beans,366.66
+2026,3,2026-03,The Courtyard,Chicken breast,531.39
+2026,3,2026-03,The Courtyard,Rice,129.36
+2026,3,2026-03,The Courtyard,Milk,169.09
+2026,3,2026-03,The Courtyard,Olive oil,168.71
+2026,3,2026-03,The Courtyard,Cleaning liquid,86.0
+2026,3,2026-03,The Courtyard,Napkins,133.42
+2026,3,2026-03,The Courtyard,Frozen vegetables,134.82
+2026,3,2026-03,Olive & Ember,Coffee beans,634.66
+2026,3,2026-03,Olive & Ember,Chicken breast,587.22
+2026,3,2026-03,Olive & Ember,Rice,171.69
+2026,3,2026-03,Olive & Ember,Milk,160.55
+2026,3,2026-03,Olive & Ember,Olive oil,259.52
+2026,3,2026-03,Olive & Ember,Cleaning liquid,144.14
+2026,3,2026-03,Olive & Ember,Napkins,199.63
+2026,3,2026-03,Olive & Ember,Frozen vegetables,171.52
+2026,3,2026-03,Cedar Street,Coffee beans,400.93
+2026,3,2026-03,Cedar Street,Chicken breast,355.45
+2026,3,2026-03,Cedar Street,Rice,114.81
+2026,3,2026-03,Cedar Street,Milk,133.98
+2026,3,2026-03,Cedar Street,Olive oil,174.07
+2026,3,2026-03,Cedar Street,Cleaning liquid,93.05
+2026,3,2026-03,Cedar Street,Napkins,110.88
+2026,3,2026-03,Cedar Street,Frozen vegetables,138.48
+2026,3,2026-03,Market Table,Coffee beans,497.26
+2026,3,2026-03,Market Table,Chicken breast,503.59
+2026,3,2026-03,Market Table,Rice,149.88
+2026,3,2026-03,Market Table,Milk,173.25
+2026,3,2026-03,Market Table,Olive oil,243.98
+2026,3,2026-03,Market Table,Cleaning liquid,110.78
+2026,3,2026-03,Market Table,Napkins,171.11
+2026,3,2026-03,Market Table,Frozen vegetables,158.76
+2026,3,2026-03,Juniper Cafe,Coffee beans,312.02
+2026,3,2026-03,Juniper Cafe,Chicken breast,368.96
+2026,3,2026-03,Juniper Cafe,Rice,113.3
+2026,3,2026-03,Juniper Cafe,Milk,122.85
+2026,3,2026-03,Juniper Cafe,Olive oil,146.95
+2026,3,2026-03,Juniper Cafe,Cleaning liquid,65.84
+2026,3,2026-03,Juniper Cafe,Napkins,105.11
+2026,3,2026-03,Juniper Cafe,Frozen vegetables,108.66
+2026,3,2026-03,Lantern House,Coffee beans,363.23
+2026,3,2026-03,Lantern House,Chicken breast,465.35
+2026,3,2026-03,Lantern House,Rice,134.38
+2026,3,2026-03,Lantern House,Milk,135.45
+2026,3,2026-03,Lantern House,Olive oil,190.0
+2026,3,2026-03,Lantern House,Cleaning liquid,88.62
+2026,3,2026-03,Lantern House,Napkins,136.48
+2026,3,2026-03,Lantern House,Frozen vegetables,126.0
+2026,3,2026-03,East Pier,Coffee beans,465.03
+2026,3,2026-03,East Pier,Chicken breast,510.49
+2026,3,2026-03,East Pier,Rice,175.27
+2026,3,2026-03,East Pier,Milk,145.53
+2026,3,2026-03,East Pier,Olive oil,211.58
+2026,3,2026-03,East Pier,Cleaning liquid,99.92
+2026,3,2026-03,East Pier,Napkins,169.79
+2026,3,2026-03,East Pier,Frozen vegetables,142.38
+2026,4,2026-04,Harbor Kitchen,Coffee beans,543.92
+2026,4,2026-04,Harbor Kitchen,Chicken breast,638.69
+2026,4,2026-04,Harbor Kitchen,Rice,182.72
+2026,4,2026-04,Harbor Kitchen,Milk,171.01
+2026,4,2026-04,Harbor Kitchen,Olive oil,254.68
+2026,4,2026-04,Harbor Kitchen,Cleaning liquid,113.53
+2026,4,2026-04,Harbor Kitchen,Napkins,152.78
+2026,4,2026-04,Harbor Kitchen,Frozen vegetables,220.37
+2026,4,2026-04,The Courtyard,Coffee beans,346.19
+2026,4,2026-04,The Courtyard,Chicken breast,552.28
+2026,4,2026-04,The Courtyard,Rice,142.88
+2026,4,2026-04,The Courtyard,Milk,119.95
+2026,4,2026-04,The Courtyard,Olive oil,178.61
+2026,4,2026-04,The Courtyard,Cleaning liquid,86.4
+2026,4,2026-04,The Courtyard,Napkins,136.42
+2026,4,2026-04,The Courtyard,Frozen vegetables,143.69
+2026,4,2026-04,Olive & Ember,Coffee beans,453.34
+2026,4,2026-04,Olive & Ember,Chicken breast,664.34
+2026,4,2026-04,Olive & Ember,Rice,158.76
+2026,4,2026-04,Olive & Ember,Milk,208.53
+2026,4,2026-04,Olive & Ember,Olive oil,247.28
+2026,4,2026-04,Olive & Ember,Cleaning liquid,97.46
+2026,4,2026-04,Olive & Ember,Napkins,168.63
+2026,4,2026-04,Olive & Ember,Frozen vegetables,181.44
+2026,4,2026-04,Cedar Street,Coffee beans,329.28
+2026,4,2026-04,Cedar Street,Chicken breast,433.65
+2026,4,2026-04,Cedar Street,Rice,122.26
+2026,4,2026-04,Cedar Street,Milk,116.66
+2026,4,2026-04,Cedar Street,Olive oil,163.8
+2026,4,2026-04,Cedar Street,Cleaning liquid,76.86
+2026,4,2026-04,Cedar Street,Napkins,125.83
+2026,4,2026-04,Cedar Street,Frozen vegetables,126.55
+2026,4,2026-04,Market Table,Coffee beans,416.27
+2026,4,2026-04,Market Table,Chicken breast,501.9
+2026,4,2026-04,Market Table,Rice,148.76
+2026,4,2026-04,Market Table,Milk,172.94
+2026,4,2026-04,Market Table,Olive oil,215.85
+2026,4,2026-04,Market Table,Cleaning liquid,91.22
+2026,4,2026-04,Market Table,Napkins,196.35
+2026,4,2026-04,Market Table,Frozen vegetables,143.69
+2026,4,2026-04,Juniper Cafe,Coffee beans,283.19
+2026,4,2026-04,Juniper Cafe,Chicken breast,284.38
+2026,4,2026-04,Juniper Cafe,Rice,113.3
+2026,4,2026-04,Juniper Cafe,Milk,91.98
+2026,4,2026-04,Juniper Cafe,Olive oil,161.32
+2026,4,2026-04,Juniper Cafe,Cleaning liquid,69.93
+2026,4,2026-04,Juniper Cafe,Napkins,124.74
+2026,4,2026-04,Juniper Cafe,Frozen vegetables,124.74
+2026,4,2026-04,Lantern House,Coffee beans,343.05
+2026,4,2026-04,Lantern House,Chicken breast,374.82
+2026,4,2026-04,Lantern House,Rice,136.87
+2026,4,2026-04,Lantern House,Milk,112.61
+2026,4,2026-04,Lantern House,Olive oil,222.93
+2026,4,2026-04,Lantern House,Cleaning liquid,83.39
+2026,4,2026-04,Lantern House,Napkins,126.82
+2026,4,2026-04,Lantern House,Frozen vegetables,144.9
+2026,4,2026-04,East Pier,Coffee beans,348.83
+2026,4,2026-04,East Pier,Chicken breast,483.33
+2026,4,2026-04,East Pier,Rice,168.46
+2026,4,2026-04,East Pier,Milk,144.27
+2026,4,2026-04,East Pier,Olive oil,184.94
+2026,4,2026-04,East Pier,Cleaning liquid,79.38
+2026,4,2026-04,East Pier,Napkins,188.27
+2026,4,2026-04,East Pier,Frozen vegetables,170.48
+2026,5,2026-05,Harbor Kitchen,Coffee beans,400.68
+2026,5,2026-05,Harbor Kitchen,Chicken breast,566.83
+2026,5,2026-05,Harbor Kitchen,Rice,181.69
+2026,5,2026-05,Harbor Kitchen,Milk,153.62
+2026,5,2026-05,Harbor Kitchen,Olive oil,256.01
+2026,5,2026-05,Harbor Kitchen,Cleaning liquid,122.43
+2026,5,2026-05,Harbor Kitchen,Napkins,174.41
+2026,5,2026-05,Harbor Kitchen,Frozen vegetables,153.73
+2026,5,2026-05,The Courtyard,Coffee beans,358.3
+2026,5,2026-05,The Courtyard,Chicken breast,452.32
+2026,5,2026-05,The Courtyard,Rice,144.67
+2026,5,2026-05,The Courtyard,Milk,130.02
+2026,5,2026-05,The Courtyard,Olive oil,199.2
+2026,5,2026-05,The Courtyard,Cleaning liquid,74.94
+2026,5,2026-05,The Courtyard,Napkins,160.84
+2026,5,2026-05,The Courtyard,Frozen vegetables,178.75
+2026,5,2026-05,Olive & Ember,Coffee beans,559.99
+2026,5,2026-05,Olive & Ember,Chicken breast,642.6
+2026,5,2026-05,Olive & Ember,Rice,192.28
+2026,5,2026-05,Olive & Ember,Milk,162.86
+2026,5,2026-05,Olive & Ember,Olive oil,305.84
+2026,5,2026-05,Olive & Ember,Cleaning liquid,117.98
+2026,5,2026-05,Olive & Ember,Napkins,145.65
+2026,5,2026-05,Olive & Ember,Frozen vegetables,230.42
+2026,5,2026-05,Cedar Street,Coffee beans,0.0
+2026,5,2026-05,Cedar Street,Chicken breast,363.32
+2026,5,2026-05,Cedar Street,Rice,115.91
+2026,5,2026-05,Cedar Street,Milk,110.81
+2026,5,2026-05,Cedar Street,Olive oil,169.81
+2026,5,2026-05,Cedar Street,Cleaning liquid,69.01
+2026,5,2026-05,Cedar Street,Napkins,100.83
+2026,5,2026-05,Cedar Street,Frozen vegetables,124.51
+2026,5,2026-05,Market Table,Coffee beans,558.18
+2026,5,2026-05,Market Table,Chicken breast,531.52
+2026,5,2026-05,Market Table,Rice,127.76
+2026,5,2026-05,Market Table,Milk,163.17
+2026,5,2026-05,Market Table,Olive oil,221.34
+2026,5,2026-05,Market Table,Cleaning liquid,90.8
+2026,5,2026-05,Market Table,Napkins,159.67
+2026,5,2026-05,Market Table,Frozen vegetables,173.31
+2026,5,2026-05,Juniper Cafe,Coffee beans,298.7
+2026,5,2026-05,Juniper Cafe,Chicken breast,346.31
+2026,5,2026-05,Juniper Cafe,Rice,108.07
+2026,5,2026-05,Juniper Cafe,Milk,94.5
+2026,5,2026-05,Juniper Cafe,Olive oil,148.84
+2026,5,2026-05,Juniper Cafe,Cleaning liquid,74.26
+2026,5,2026-05,Juniper Cafe,Napkins,108.05
+2026,5,2026-05,Juniper Cafe,Frozen vegetables,123.35
+2026,5,2026-05,Lantern House,Coffee beans,345.3
+2026,5,2026-05,Lantern House,Chicken breast,438.23
+2026,5,2026-05,Lantern House,Rice,112.01
+2026,5,2026-05,Lantern House,Milk,98.18
+2026,5,2026-05,Lantern House,Olive oil,215.21
+2026,5,2026-05,Lantern House,Cleaning liquid,72.22
+2026,5,2026-05,Lantern House,Napkins,105.92
+2026,5,2026-05,Lantern House,Frozen vegetables,111.8
+2026,5,2026-05,East Pier,Coffee beans,493.58
+2026,5,2026-05,East Pier,Chicken breast,559.91
+2026,5,2026-05,East Pier,Rice,142.88
+2026,5,2026-05,East Pier,Milk,163.33
+2026,5,2026-05,East Pier,Olive oil,246.31
+2026,5,2026-05,East Pier,Cleaning liquid,104.83
+2026,5,2026-05,East Pier,Napkins,182.49
+2026,5,2026-05,East Pier,Frozen vegetables,188.53
+2026,6,2026-06,Harbor Kitchen,Coffee beans,559.44
+2026,6,2026-06,Harbor Kitchen,Chicken breast,477.79
+2026,6,2026-06,Harbor Kitchen,Rice,169.34
+2026,6,2026-06,Harbor Kitchen,Milk,130.52
+2026,6,2026-06,Harbor Kitchen,Olive oil,205.72
+2026,6,2026-06,Harbor Kitchen,Cleaning liquid,95.55
+2026,6,2026-06,Harbor Kitchen,Napkins,167.03
+2026,6,2026-06,Harbor Kitchen,Frozen vegetables,201.6
+2026,6,2026-06,The Courtyard,Coffee beans,408.51
+2026,6,2026-06,The Courtyard,Chicken breast,451.62
+2026,6,2026-06,The Courtyard,Rice,120.28
+2026,6,2026-06,The Courtyard,Milk,115.84
+2026,6,2026-06,The Courtyard,Olive oil,197.0
+2026,6,2026-06,The Courtyard,Cleaning liquid,79.82
+2026,6,2026-06,The Courtyard,Napkins,129.65
+2026,6,2026-06,The Courtyard,Frozen vegetables,156.24
+2026,6,2026-06,Olive & Ember,Coffee beans,405.94
+2026,6,2026-06,Olive & Ember,Chicken breast,596.37
+2026,6,2026-06,Olive & Ember,Rice,166.46
+2026,6,2026-06,Olive & Ember,Milk,185.75
+2026,6,2026-06,Olive & Ember,Olive oil,241.65
+2026,6,2026-06,Olive & Ember,Cleaning liquid,108.19
+2026,6,2026-06,Olive & Ember,Napkins,186.48
+2026,6,2026-06,Olive & Ember,Frozen vegetables,200.34
+2026,6,2026-06,Cedar Street,Coffee beans,396.9
+2026,6,2026-06,Cedar Street,Chicken breast,422.73
+2026,6,2026-06,Cedar Street,Rice,120.28
+2026,6,2026-06,Cedar Street,Milk,104.4
+2026,6,2026-06,Cedar Street,Olive oil,146.85
+2026,6,2026-06,Cedar Street,Cleaning liquid,82.36
+2026,6,2026-06,Cedar Street,Napkins,100.84
+2026,6,2026-06,Cedar Street,Frozen vegetables,132.67
+2026,6,2026-06,Market Table,Coffee beans,486.49
+2026,6,2026-06,Market Table,Chicken breast,506.1
+2026,6,2026-06,Market Table,Rice,167.56
+2026,6,2026-06,Market Table,Milk,140.91
+2026,6,2026-06,Market Table,Olive oil,210.42
+2026,6,2026-06,Market Table,Cleaning liquid,97.13
+2026,6,2026-06,Market Table,Napkins,146.69
+2026,6,2026-06,Market Table,Frozen vegetables,165.17
+2026,6,2026-06,Juniper Cafe,Coffee beans,310.12
+2026,6,2026-06,Juniper Cafe,Chicken breast,318.84
+2026,6,2026-06,Juniper Cafe,Rice,112.01
+2026,6,2026-06,Juniper Cafe,Milk,110.67
+2026,6,2026-06,Juniper Cafe,Olive oil,158.76
+2026,6,2026-06,Juniper Cafe,Cleaning liquid,57.33
+2026,6,2026-06,Juniper Cafe,Napkins,83.16
+2026,6,2026-06,Juniper Cafe,Frozen vegetables,85.68
+2026,6,2026-06,Lantern House,Coffee beans,330.54
+2026,6,2026-06,Lantern House,Chicken breast,414.07
+2026,6,2026-06,Lantern House,Rice,129.4
+2026,6,2026-06,Lantern House,Milk,112.9
+2026,6,2026-06,Lantern House,Olive oil,173.9
+2026,6,2026-06,Lantern House,Cleaning liquid,89.54
+2026,6,2026-06,Lantern House,Napkins,107.02
+2026,6,2026-06,Lantern House,Frozen vegetables,123.48
+2026,6,2026-06,East Pier,Coffee beans,424.12
+2026,6,2026-06,East Pier,Chicken breast,549.78
+2026,6,2026-06,East Pier,Rice,127.74
+2026,6,2026-06,East Pier,Milk,151.12
+2026,6,2026-06,East Pier,Olive oil,238.49
+2026,6,2026-06,East Pier,Cleaning liquid,98.75
+2026,6,2026-06,East Pier,Napkins,150.53
+2026,6,2026-06,East Pier,Frozen vegetables,173.36
+2026,7,2026-07,Harbor Kitchen,Coffee beans,458.54
+2026,7,2026-07,Harbor Kitchen,Chicken breast,607.32
+2026,7,2026-07,Harbor Kitchen,Rice,152.63
+2026,7,2026-07,Harbor Kitchen,Milk,152.88
+2026,7,2026-07,Harbor Kitchen,Olive oil,201.12
+2026,7,2026-07,Harbor Kitchen,Cleaning liquid,92.61
+2026,7,2026-07,Harbor Kitchen,Napkins,157.44
+2026,7,2026-07,Harbor Kitchen,Frozen vegetables,138.6
+2026,7,2026-07,The Courtyard,Coffee beans,328.42
+2026,7,2026-07,The Courtyard,Chicken breast,383.95
+2026,7,2026-07,The Courtyard,Rice,123.67
+2026,7,2026-07,The Courtyard,Milk,118.97
+2026,7,2026-07,The Courtyard,Olive oil,162.07
+2026,7,2026-07,The Courtyard,Cleaning liquid,101.91
+2026,7,2026-07,The Courtyard,Napkins,136.36
+2026,7,2026-07,The Courtyard,Frozen vegetables,129.87
+2026,7,2026-07,Olive & Ember,Coffee beans,497.7
+2026,7,2026-07,Olive & Ember,Chicken breast,524.79
+2026,7,2026-07,Olive & Ember,Rice,140.05
+2026,7,2026-07,Olive & Ember,Milk,154.19
+2026,7,2026-07,Olive & Ember,Olive oil,225.79
+2026,7,2026-07,Olive & Ember,Cleaning liquid,112.75
+2026,7,2026-07,Olive & Ember,Napkins,165.82
+2026,7,2026-07,Olive & Ember,Frozen vegetables,158.76
+2026,7,2026-07,Cedar Street,Coffee beans,349.71
+2026,7,2026-07,Cedar Street,Chicken breast,318.94
+2026,7,2026-07,Cedar Street,Rice,104.01
+2026,7,2026-07,Cedar Street,Milk,119.36
+2026,7,2026-07,Cedar Street,Olive oil,166.95
+2026,7,2026-07,Cedar Street,Cleaning liquid,81.2
+2026,7,2026-07,Cedar Street,Napkins,138.77
+2026,7,2026-07,Cedar Street,Frozen vegetables,130.86
+2026,7,2026-07,Market Table,Coffee beans,513.14
+2026,7,2026-07,Market Table,Chicken breast,531.07
+2026,7,2026-07,Market Table,Rice,124.36
+2026,7,2026-07,Market Table,Milk,169.73
+2026,7,2026-07,Market Table,Olive oil,214.31
+2026,7,2026-07,Market Table,Cleaning liquid,96.6
+2026,7,2026-07,Market Table,Napkins,157.58
+2026,7,2026-07,Market Table,Frozen vegetables,152.46
+2026,7,2026-07,Juniper Cafe,Coffee beans,285.71
+2026,7,2026-07,Juniper Cafe,Chicken breast,354.66
+2026,7,2026-07,Juniper Cafe,Rice,95.82
+2026,7,2026-07,Juniper Cafe,Milk,97.6
+2026,7,2026-07,Juniper Cafe,Olive oil,160.65
+2026,7,2026-07,Juniper Cafe,Cleaning liquid,70.9
+2026,7,2026-07,Juniper Cafe,Napkins,93.73
+2026,7,2026-07,Juniper Cafe,Frozen vegetables,89.46
+2026,7,2026-07,Lantern House,Coffee beans,309.08
+2026,7,2026-07,Lantern House,Chicken breast,410.79
+2026,7,2026-07,Lantern House,Rice,109.81
+2026,7,2026-07,Lantern House,Milk,127.46
+2026,7,2026-07,Lantern House,Olive oil,0.0
+2026,7,2026-07,Lantern House,Cleaning liquid,88.2
+2026,7,2026-07,Lantern House,Napkins,98.79
+2026,7,2026-07,Lantern House,Frozen vegetables,99.92
+2026,7,2026-07,East Pier,Coffee beans,408.16
+2026,7,2026-07,East Pier,Chicken breast,503.12
+2026,7,2026-07,East Pier,Rice,133.18
+2026,7,2026-07,East Pier,Milk,160.77
+2026,7,2026-07,East Pier,Olive oil,175.88
+2026,7,2026-07,East Pier,Cleaning liquid,91.79
+2026,7,2026-07,East Pier,Napkins,155.93
+2026,7,2026-07,East Pier,Frozen vegetables,157.54
+2026,8,2026-08,Harbor Kitchen,Coffee beans,434.22
+2026,8,2026-08,Harbor Kitchen,Chicken breast,557.55
+2026,8,2026-08,Harbor Kitchen,Rice,132.47
+2026,8,2026-08,Harbor Kitchen,Milk,162.88
+2026,8,2026-08,Harbor Kitchen,Olive oil,246.31
+2026,8,2026-08,Harbor Kitchen,Cleaning liquid,124.07
+2026,8,2026-08,Harbor Kitchen,Napkins,122.66
+2026,8,2026-08,Harbor Kitchen,Frozen vegetables,181.9
+2026,8,2026-08,The Courtyard,Coffee beans,284.89
+2026,8,2026-08,The Courtyard,Chicken breast,454.25
+2026,8,2026-08,The Courtyard,Rice,129.4
+2026,8,2026-08,The Courtyard,Milk,104.66
+2026,8,2026-08,The Courtyard,Olive oil,164.7
+2026,8,2026-08,The Courtyard,Cleaning liquid,81.14
+2026,8,2026-08,The Courtyard,Napkins,124.74
+2026,8,2026-08,The Courtyard,Frozen vegetables,149.69
+2026,8,2026-08,Olive & Ember,Coffee beans,448.59
+2026,8,2026-08,Olive & Ember,Chicken breast,524.37
+2026,8,2026-08,Olive & Ember,Rice,154.35
+2026,8,2026-08,Olive & Ember,Milk,187.03
+2026,8,2026-08,Olive & Ember,Olive oil,238.56
+2026,8,2026-08,Olive & Ember,Cleaning liquid,96.17
+2026,8,2026-08,Olive & Ember,Napkins,147.0
+2026,8,2026-08,Olive & Ember,Frozen vegetables,146.11
+2026,8,2026-08,Cedar Street,Coffee beans,277.55
+2026,8,2026-08,Cedar Street,Chicken breast,397.29
+2026,8,2026-08,Cedar Street,Rice,90.64
+2026,8,2026-08,Cedar Street,Milk,91.14
+2026,8,2026-08,Cedar Street,Olive oil,137.76
+2026,8,2026-08,Cedar Street,Cleaning liquid,62.33
+2026,8,2026-08,Cedar Street,Napkins,116.28
+2026,8,2026-08,Cedar Street,Frozen vegetables,138.93
+2026,8,2026-08,Market Table,Coffee beans,336.0
+2026,8,2026-08,Market Table,Chicken breast,503.33
+2026,8,2026-08,Market Table,Rice,141.12
+2026,8,2026-08,Market Table,Milk,122.89
+2026,8,2026-08,Market Table,Olive oil,194.04
+2026,8,2026-08,Market Table,Cleaning liquid,74.21
+2026,8,2026-08,Market Table,Napkins,158.76
+2026,8,2026-08,Market Table,Frozen vegetables,160.02
+2026,8,2026-08,Juniper Cafe,Coffee beans,310.12
+2026,8,2026-08,Juniper Cafe,Chicken breast,288.0
+2026,8,2026-08,Juniper Cafe,Rice,83.9
+2026,8,2026-08,Juniper Cafe,Milk,80.01
+2026,8,2026-08,Juniper Cafe,Olive oil,115.4
+2026,8,2026-08,Juniper Cafe,Cleaning liquid,53.8
+2026,8,2026-08,Juniper Cafe,Napkins,113.9
+2026,8,2026-08,Juniper Cafe,Frozen vegetables,86.58
+2026,8,2026-08,Lantern House,Coffee beans,269.47
+2026,8,2026-08,Lantern House,Chicken breast,383.74
+2026,8,2026-08,Lantern House,Rice,119.45
+2026,8,2026-08,Lantern House,Milk,101.84
+2026,8,2026-08,Lantern House,Olive oil,158.47
+2026,8,2026-08,Lantern House,Cleaning liquid,63.76
+2026,8,2026-08,Lantern House,Napkins,115.25
+2026,8,2026-08,Lantern House,Frozen vegetables,130.66
+2026,8,2026-08,East Pier,Coffee beans,423.19
+2026,8,2026-08,East Pier,Chicken breast,461.16
+2026,8,2026-08,East Pier,Rice,131.89
+2026,8,2026-08,East Pier,Milk,106.43
+2026,8,2026-08,East Pier,Olive oil,173.9
+2026,8,2026-08,East Pier,Cleaning liquid,71.48
+2026,8,2026-08,East Pier,Napkins,130.54
+2026,8,2026-08,East Pier,Frozen vegetables,144.92
+2026,9,2026-09,Harbor Kitchen,Coffee beans,471.45
+2026,9,2026-09,Harbor Kitchen,Chicken breast,548.16
+2026,9,2026-09,Harbor Kitchen,Rice,167.33
+2026,9,2026-09,Harbor Kitchen,Milk,135.71
+2026,9,2026-09,Harbor Kitchen,Olive oil,219.68
+2026,9,2026-09,Harbor Kitchen,Cleaning liquid,93.93
+2026,9,2026-09,Harbor Kitchen,Napkins,134.03
+2026,9,2026-09,Harbor Kitchen,Frozen vegetables,164.79
+2026,9,2026-09,The Courtyard,Coffee beans,376.74
+2026,9,2026-09,The Courtyard,Chicken breast,343.22
+2026,9,2026-09,The Courtyard,Rice,104.08
+2026,9,2026-09,The Courtyard,Milk,125.24
+2026,9,2026-09,The Courtyard,Olive oil,187.54
+2026,9,2026-09,The Courtyard,Cleaning liquid,94.36
+2026,9,2026-09,The Courtyard,Napkins,117.6
+2026,9,2026-09,The Courtyard,Frozen vegetables,125.17
+2026,9,2026-09,Olive & Ember,Coffee beans,420.53
+2026,9,2026-09,Olive & Ember,Chicken breast,454.84
+2026,9,2026-09,Olive & Ember,Rice,125.31
+2026,9,2026-09,Olive & Ember,Milk,184.46
+2026,9,2026-09,Olive & Ember,Olive oil,232.73
+2026,9,2026-09,Olive & Ember,Cleaning liquid,119.09
+2026,9,2026-09,Olive & Ember,Napkins,170.81
+2026,9,2026-09,Olive & Ember,Frozen vegetables,147.23
+2026,9,2026-09,Cedar Street,Coffee beans,325.23
+2026,9,2026-09,Cedar Street,Chicken breast,317.02
+2026,9,2026-09,Cedar Street,Rice,87.93
+2026,9,2026-09,Cedar Street,Milk,109.53
+2026,9,2026-09,Cedar Street,Olive oil,150.38
+2026,9,2026-09,Cedar Street,Cleaning liquid,62.16
+2026,9,2026-09,Cedar Street,Napkins,103.73
+2026,9,2026-09,Cedar Street,Frozen vegetables,124.51
+2026,9,2026-09,Market Table,Coffee beans,452.54
+2026,9,2026-09,Market Table,Chicken breast,536.29
+2026,9,2026-09,Market Table,Rice,117.94
+2026,9,2026-09,Market Table,Milk,113.48
+2026,9,2026-09,Market Table,Olive oil,172.54
+2026,9,2026-09,Market Table,Cleaning liquid,93.24
+2026,9,2026-09,Market Table,Napkins,149.18
+2026,9,2026-09,Market Table,Frozen vegetables,158.81
+2026,9,2026-09,Juniper Cafe,Coffee beans,285.24
+2026,9,2026-09,Juniper Cafe,Chicken breast,326.03
+2026,9,2026-09,Juniper Cafe,Rice,0.0
+2026,9,2026-09,Juniper Cafe,Milk,87.02
+2026,9,2026-09,Juniper Cafe,Olive oil,127.01
+2026,9,2026-09,Juniper Cafe,Cleaning liquid,46.37
+2026,9,2026-09,Juniper Cafe,Napkins,100.85
+2026,9,2026-09,Juniper Cafe,Frozen vegetables,81.31
+2026,9,2026-09,Lantern House,Coffee beans,312.2
+2026,9,2026-09,Lantern House,Chicken breast,376.32
+2026,9,2026-09,Lantern House,Rice,106.72
+2026,9,2026-09,Lantern House,Milk,115.88
+2026,9,2026-09,Lantern House,Olive oil,172.87
+2026,9,2026-09,Lantern House,Cleaning liquid,78.78
+2026,9,2026-09,Lantern House,Napkins,119.36
+2026,9,2026-09,Lantern House,Frozen vegetables,149.43
+2026,9,2026-09,East Pier,Coffee beans,374.22
+2026,9,2026-09,East Pier,Chicken breast,507.94
+2026,9,2026-09,East Pier,Rice,140.31
+2026,9,2026-09,East Pier,Milk,120.54
+2026,9,2026-09,East Pier,Olive oil,197.82
+2026,9,2026-09,East Pier,Cleaning liquid,85.47
+2026,9,2026-09,East Pier,Napkins,142.0
+2026,9,2026-09,East Pier,Frozen vegetables,146.11
