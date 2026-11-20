@@ -998,3 +998,339 @@ year,month,month_key,venue,product,supplier,spend_bhd,units,lines,weighted_unit_
 2026,4,2026-04,Market Table,Cleaning liquid,Silverline Traders,96.2,52.0,1,1.85
 2026,4,2026-04,Market Table,Coffee beans,Northline Wholesale,455.4,55.0,1,8.28
 2026,4,2026-04,Market Table,Frozen vegetables,Eastbay Foods,164.92,124.0,1,1.33
+2026,4,2026-04,Market Table,Milk,Harbor Supply,183.52,296.0,1,0.62
+2026,4,2026-04,Market Table,Napkins,Northline Wholesale,150.49,149.0,1,1.01
+2026,4,2026-04,Market Table,Rice,Northline Wholesale,136.8,171.0,1,0.8
+2026,4,2026-04,Olive & Ember,Chicken breast,Eastbay Foods,615.96,261.0,1,2.36
+2026,4,2026-04,Olive & Ember,Cleaning liquid,Silverline Traders,102.06,54.0,1,1.89
+2026,4,2026-04,Olive & Ember,Coffee beans,Harbor Supply,634.44,68.0,1,9.33
+2026,4,2026-04,Olive & Ember,Frozen vegetables,Green Basket,170.8,140.0,1,1.22
+2026,4,2026-04,Olive & Ember,Milk,Eastbay Foods,193.72,334.0,1,0.58
+2026,4,2026-04,Olive & Ember,Napkins,Harbor Supply,226.0,200.0,1,1.13
+2026,4,2026-04,Olive & Ember,Olive oil,Silverline Traders,233.16,67.0,1,3.48
+2026,4,2026-04,Olive & Ember,Rice,Silverline Traders,167.45,197.0,1,0.85
+2026,4,2026-04,The Courtyard,Chicken breast,Green Basket,464.82,183.0,1,2.54
+2026,4,2026-04,The Courtyard,Cleaning liquid,Harbor Supply,102.24,48.0,1,2.13
+2026,4,2026-04,The Courtyard,Coffee beans,Northline Wholesale,376.2,45.0,1,8.36
+2026,4,2026-04,The Courtyard,Frozen vegetables,Green Basket,161.04,132.0,1,1.22
+2026,4,2026-04,The Courtyard,Milk,Harbor Supply,145.53,231.0,1,0.63
+2026,4,2026-04,The Courtyard,Napkins,Northline Wholesale,136.0,136.0,1,1.0
+2026,4,2026-04,The Courtyard,Olive oil,Silverline Traders,200.07,57.0,1,3.51
+2026,4,2026-04,The Courtyard,Rice,Northline Wholesale,130.26,167.0,1,0.78
+2026,5,2026-05,Cedar Street,Chicken breast,Eastbay Foods,339.38,142.0,1,2.39
+2026,5,2026-05,Cedar Street,Cleaning liquid,Silverline Traders,77.9,41.0,1,1.9
+2026,5,2026-05,Cedar Street,Coffee beans,Northline Wholesale,316.8,36.0,1,8.8
+2026,5,2026-05,Cedar Street,Frozen vegetables,Eastbay Foods,142.31,107.0,1,1.33
+2026,5,2026-05,Cedar Street,Milk,Eastbay Foods,118.56,208.0,1,0.57
+2026,5,2026-05,Cedar Street,Napkins,Northline Wholesale,120.36,118.0,1,1.02
+2026,5,2026-05,Cedar Street,Olive oil,Silverline Traders,174.0,50.0,1,3.48
+2026,5,2026-05,Cedar Street,Rice,Northline Wholesale,124.82,158.0,1,0.79
+2026,5,2026-05,East Pier,Chicken breast,Green Basket,603.2,232.0,1,2.6
+2026,5,2026-05,East Pier,Cleaning liquid,Silverline Traders,73.71,39.0,1,1.89
+2026,5,2026-05,East Pier,Coffee beans,Northline Wholesale,354.0,40.0,1,8.85
+2026,5,2026-05,East Pier,Frozen vegetables,Eastbay Foods,175.54,131.0,1,1.34
+2026,5,2026-05,East Pier,Milk,Eastbay Foods,123.69,217.0,1,0.57
+2026,5,2026-05,East Pier,Napkins,Northline Wholesale,160.0,160.0,1,1.0
+2026,5,2026-05,East Pier,Olive oil,Silverline Traders,231.0,66.0,1,3.5
+2026,5,2026-05,East Pier,Rice,Northline Wholesale,128.8,161.0,1,0.8
+2026,5,2026-05,Harbor Kitchen,Chicken breast,Green Basket,546.49,211.0,1,2.59
+2026,5,2026-05,Harbor Kitchen,Cleaning liquid,Harbor Supply,132.68,62.0,1,2.14
+2026,5,2026-05,Harbor Kitchen,Coffee beans,Northline Wholesale,501.03,57.0,1,8.79
+2026,5,2026-05,Harbor Kitchen,Frozen vegetables,Eastbay Foods,210.38,157.0,1,1.34
+2026,5,2026-05,Harbor Kitchen,Milk,Harbor Supply,146.79,233.0,1,0.63
+2026,5,2026-05,Harbor Kitchen,Napkins,Northline Wholesale,172.38,169.0,1,1.02
+2026,5,2026-05,Harbor Kitchen,Olive oil,Silverline Traders,260.48,74.0,1,3.52
+2026,5,2026-05,Harbor Kitchen,Rice,Northline Wholesale,169.06,214.0,1,0.79
+2026,5,2026-05,Juniper Cafe,Chicken breast,Green Basket,411.81,159.0,1,2.59
+2026,5,2026-05,Juniper Cafe,Cleaning liquid,Silverline Traders,51.03,27.0,1,1.89
+2026,5,2026-05,Juniper Cafe,Coffee beans,Northline Wholesale,327.08,37.0,1,8.84
+2026,5,2026-05,Juniper Cafe,Frozen vegetables,Eastbay Foods,118.37,89.0,1,1.33
+2026,5,2026-05,Juniper Cafe,Milk,Eastbay Foods,96.9,170.0,1,0.57
+2026,5,2026-05,Juniper Cafe,Napkins,Harbor Supply,100.05,87.0,1,1.15
+2026,5,2026-05,Juniper Cafe,Olive oil,Green Basket,124.26,38.0,1,3.27
+2026,5,2026-05,Juniper Cafe,Rice,Silverline Traders,83.3,98.0,1,0.85
+2026,5,2026-05,Lantern House,Chicken breast,Green Basket,386.08,152.0,1,2.54
+2026,5,2026-05,Lantern House,Cleaning liquid,Silverline Traders,76.26,41.0,1,1.86
+2026,5,2026-05,Lantern House,Coffee beans,Northline Wholesale,323.75,37.0,1,8.75
+2026,5,2026-05,Lantern House,Frozen vegetables,Eastbay Foods,136.68,102.0,1,1.34
+2026,5,2026-05,Lantern House,Milk,Eastbay Foods,102.6,180.0,1,0.57
+2026,5,2026-05,Lantern House,Napkins,Northline Wholesale,123.22,122.0,1,1.01
+2026,5,2026-05,Lantern House,Olive oil,Silverline Traders,203.0,58.0,1,3.5
+2026,5,2026-05,Lantern House,Rice,Northline Wholesale,113.6,142.0,1,0.8
+2026,5,2026-05,Market Table,Chicken breast,Eastbay Foods,487.2,203.0,1,2.4
+2026,5,2026-05,Market Table,Cleaning liquid,Silverline Traders,97.24,52.0,1,1.87
+2026,5,2026-05,Market Table,Coffee beans,Harbor Supply,455.4,46.0,1,9.9
+2026,5,2026-05,Market Table,Frozen vegetables,Green Basket,147.6,120.0,1,1.23
+2026,5,2026-05,Market Table,Milk,Harbor Supply,144.27,229.0,1,0.63
+2026,5,2026-05,Market Table,Napkins,Northline Wholesale,162.0,162.0,1,1.0
+2026,5,2026-05,Market Table,Olive oil,Silverline Traders,272.22,78.0,1,3.49
+2026,5,2026-05,Market Table,Rice,Silverline Traders,131.75,155.0,1,0.85
+2026,5,2026-05,Olive & Ember,Chicken breast,Green Basket,754.0,290.0,1,2.6
+2026,5,2026-05,Olive & Ember,Cleaning liquid,Silverline Traders,92.12,49.0,1,1.88
+2026,5,2026-05,Olive & Ember,Coffee beans,Harbor Supply,546.7,55.0,1,9.94
+2026,5,2026-05,Olive & Ember,Frozen vegetables,Eastbay Foods,232.2,172.0,1,1.35
+2026,5,2026-05,Olive & Ember,Milk,Harbor Supply,161.28,256.0,1,0.63
+2026,5,2026-05,Olive & Ember,Napkins,Northline Wholesale,149.94,147.0,1,1.02
+2026,5,2026-05,Olive & Ember,Olive oil,Green Basket,293.7,89.0,1,3.3
+2026,5,2026-05,Olive & Ember,Rice,Silverline Traders,148.75,175.0,1,0.85
+2026,5,2026-05,The Courtyard,Chicken breast,Eastbay Foods,423.03,177.0,1,2.39
+2026,5,2026-05,The Courtyard,Cleaning liquid,Harbor Supply,87.33,41.0,1,2.13
+2026,5,2026-05,The Courtyard,Coffee beans,Harbor Supply,505.92,51.0,1,9.92
+2026,5,2026-05,The Courtyard,Frozen vegetables,Green Basket,143.96,118.0,1,1.22
+2026,5,2026-05,The Courtyard,Milk,Harbor Supply,163.06,263.0,1,0.62
+2026,5,2026-05,The Courtyard,Napkins,Harbor Supply,150.29,133.0,1,1.13
+2026,5,2026-05,The Courtyard,Olive oil,Green Basket,180.4,55.0,1,3.28
+2026,5,2026-05,The Courtyard,Rice,Silverline Traders,118.44,141.0,1,0.84
+2026,6,2026-06,Cedar Street,Chicken breast,Green Basket,358.4,140.0,1,2.56
+2026,6,2026-06,Cedar Street,Cleaning liquid,Harbor Supply,69.44,32.0,1,2.17
+2026,6,2026-06,Cedar Street,Coffee beans,Northline Wholesale,355.6,40.0,1,8.89
+2026,6,2026-06,Cedar Street,Frozen vegetables,Green Basket,126.69,103.0,1,1.23
+2026,6,2026-06,Cedar Street,Milk,Eastbay Foods,116.58,201.0,1,0.58
+2026,6,2026-06,Cedar Street,Napkins,Harbor Supply,103.5,90.0,1,1.15
+2026,6,2026-06,Cedar Street,Olive oil,Green Basket,145.2,44.0,1,3.3
+2026,6,2026-06,Cedar Street,Rice,Silverline Traders,94.35,111.0,1,0.85
+2026,6,2026-06,East Pier,Chicken breast,Green Basket,538.05,211.0,1,2.55
+2026,6,2026-06,East Pier,Cleaning liquid,Silverline Traders,91.63,49.0,1,1.87
+2026,6,2026-06,East Pier,Coffee beans,Harbor Supply,422.94,42.0,1,10.07
+2026,6,2026-06,East Pier,Frozen vegetables,Eastbay Foods,164.56,121.0,1,1.36
+2026,6,2026-06,East Pier,Milk,Harbor Supply,151.9,245.0,1,0.62
+2026,6,2026-06,East Pier,Napkins,Harbor Supply,168.72,148.0,1,1.14
+2026,6,2026-06,East Pier,Olive oil,Green Basket,180.88,56.0,1,3.23
+2026,6,2026-06,East Pier,Rice,Northline Wholesale,139.83,177.0,1,0.79
+2026,6,2026-06,Harbor Kitchen,Chicken breast,Eastbay Foods,556.95,235.0,1,2.37
+2026,6,2026-06,Harbor Kitchen,Cleaning liquid,Silverline Traders,101.75,55.0,1,1.85
+2026,6,2026-06,Harbor Kitchen,Coffee beans,Northline Wholesale,534.36,61.0,1,8.76
+2026,6,2026-06,Harbor Kitchen,Frozen vegetables,Eastbay Foods,156.94,118.0,1,1.33
+2026,6,2026-06,Harbor Kitchen,Milk,Eastbay Foods,139.2,240.0,1,0.58
+2026,6,2026-06,Harbor Kitchen,Napkins,Harbor Supply,198.36,171.0,1,1.16
+2026,6,2026-06,Harbor Kitchen,Olive oil,Silverline Traders,212.89,61.0,1,3.49
+2026,6,2026-06,Harbor Kitchen,Rice,Northline Wholesale,132.72,168.0,1,0.79
+2026,6,2026-06,Juniper Cafe,Chicken breast,Eastbay Foods,324.0,135.0,1,2.4
+2026,6,2026-06,Juniper Cafe,Cleaning liquid,Silverline Traders,60.16,32.0,1,1.88
+2026,6,2026-06,Juniper Cafe,Coffee beans,Harbor Supply,331.32,33.0,1,10.04
+2026,6,2026-06,Juniper Cafe,Frozen vegetables,Green Basket,109.12,88.0,1,1.24
+2026,6,2026-06,Juniper Cafe,Milk,Harbor Supply,100.17,159.0,1,0.63
+2026,6,2026-06,Juniper Cafe,Napkins,Northline Wholesale,83.83,83.0,1,1.01
+2026,6,2026-06,Juniper Cafe,Olive oil,Green Basket,149.5,46.0,1,3.25
+2026,6,2026-06,Juniper Cafe,Rice,Northline Wholesale,76.44,98.0,1,0.78
+2026,6,2026-06,Lantern House,Chicken breast,Green Basket,448.8,176.0,1,2.55
+2026,6,2026-06,Lantern House,Cleaning liquid,Silverline Traders,65.45,35.0,1,1.87
+2026,6,2026-06,Lantern House,Coffee beans,Northline Wholesale,292.05,33.0,1,8.85
+2026,6,2026-06,Lantern House,Frozen vegetables,Eastbay Foods,138.32,104.0,1,1.33
+2026,6,2026-06,Lantern House,Milk,Eastbay Foods,101.46,178.0,1,0.57
+2026,6,2026-06,Lantern House,Napkins,Northline Wholesale,126.48,124.0,1,1.02
+2026,6,2026-06,Lantern House,Olive oil,Silverline Traders,177.48,51.0,1,3.48
+2026,6,2026-06,Lantern House,Rice,Silverline Traders,105.84,126.0,1,0.84
+2026,6,2026-06,Market Table,Chicken breast,Eastbay Foods,530.88,224.0,1,2.37
+2026,6,2026-06,Market Table,Coffee beans,Harbor Supply,462.48,47.0,1,9.84
+2026,6,2026-06,Market Table,Frozen vegetables,Green Basket,130.0,104.0,1,1.25
+2026,6,2026-06,Market Table,Milk,Eastbay Foods,122.96,212.0,1,0.58
+2026,6,2026-06,Market Table,Napkins,Harbor Supply,155.25,135.0,1,1.15
+2026,6,2026-06,Market Table,Olive oil,Silverline Traders,254.88,72.0,1,3.54
+2026,6,2026-06,Market Table,Rice,Silverline Traders,129.86,151.0,1,0.86
+2026,6,2026-06,Olive & Ember,Chicken breast,Eastbay Foods,614.68,254.0,1,2.42
+2026,6,2026-06,Olive & Ember,Cleaning liquid,Silverline Traders,111.6,60.0,1,1.86
+2026,6,2026-06,Olive & Ember,Coffee beans,Harbor Supply,480.96,48.0,1,10.02
+2026,6,2026-06,Olive & Ember,Frozen vegetables,Eastbay Foods,186.26,139.0,1,1.34
+2026,6,2026-06,Olive & Ember,Milk,Harbor Supply,146.16,232.0,1,0.63
+2026,6,2026-06,Olive & Ember,Napkins,Northline Wholesale,141.4,140.0,1,1.01
+2026,6,2026-06,Olive & Ember,Olive oil,Green Basket,261.49,79.0,1,3.31
+2026,6,2026-06,Olive & Ember,Rice,Silverline Traders,186.62,217.0,1,0.86
+2026,6,2026-06,The Courtyard,Chicken breast,Green Basket,412.8,160.0,1,2.58
+2026,6,2026-06,The Courtyard,Cleaning liquid,Silverline Traders,72.93,39.0,1,1.87
+2026,6,2026-06,The Courtyard,Coffee beans,Harbor Supply,375.44,38.0,1,9.88
+2026,6,2026-06,The Courtyard,Frozen vegetables,Green Basket,115.62,94.0,1,1.23
+2026,6,2026-06,The Courtyard,Milk,Eastbay Foods,140.79,247.0,1,0.57
+2026,6,2026-06,The Courtyard,Napkins,Northline Wholesale,134.0,134.0,1,1.0
+2026,6,2026-06,The Courtyard,Olive oil,Green Basket,172.78,53.0,1,3.26
+2026,6,2026-06,The Courtyard,Rice,Northline Wholesale,141.41,179.0,1,0.79
+2026,7,2026-07,Cedar Street,Chicken breast,Green Basket,369.2,142.0,1,2.6
+2026,7,2026-07,Cedar Street,Cleaning liquid,Silverline Traders,53.94,29.0,1,1.86
+2026,7,2026-07,Cedar Street,Coffee beans,Northline Wholesale,276.21,31.0,1,8.91
+2026,7,2026-07,Cedar Street,Frozen vegetables,Eastbay Foods,140.08,103.0,1,1.36
+2026,7,2026-07,Cedar Street,Milk,Eastbay Foods,94.05,165.0,1,0.57
+2026,7,2026-07,Cedar Street,Napkins,Harbor Supply,104.65,91.0,1,1.15
+2026,7,2026-07,Cedar Street,Olive oil,Silverline Traders,169.44,48.0,1,3.53
+2026,7,2026-07,Cedar Street,Rice,Northline Wholesale,92.0,115.0,1,0.8
+2026,7,2026-07,East Pier,Chicken breast,Eastbay Foods,499.8,210.0,1,2.38
+2026,7,2026-07,East Pier,Cleaning liquid,Harbor Supply,84.24,39.0,1,2.16
+2026,7,2026-07,East Pier,Coffee beans,Harbor Supply,383.42,38.0,1,10.09
+2026,7,2026-07,East Pier,Frozen vegetables,Green Basket,116.25,93.0,1,1.25
+2026,7,2026-07,East Pier,Milk,Harbor Supply,146.79,233.0,1,0.63
+2026,7,2026-07,East Pier,Napkins,Northline Wholesale,128.27,127.0,1,1.01
+2026,7,2026-07,East Pier,Olive oil,Silverline Traders,177.99,51.0,1,3.49
+2026,7,2026-07,East Pier,Rice,Northline Wholesale,127.19,161.0,1,0.79
+2026,7,2026-07,Harbor Kitchen,Chicken breast,Green Basket,609.09,237.0,1,2.57
+2026,7,2026-07,Harbor Kitchen,Cleaning liquid,Harbor Supply,103.68,48.0,1,2.16
+2026,7,2026-07,Harbor Kitchen,Coffee beans,Northline Wholesale,494.48,56.0,1,8.83
+2026,7,2026-07,Harbor Kitchen,Frozen vegetables,Green Basket,161.04,132.0,1,1.22
+2026,7,2026-07,Harbor Kitchen,Milk,Eastbay Foods,154.86,267.0,1,0.58
+2026,7,2026-07,Harbor Kitchen,Napkins,Harbor Supply,149.5,130.0,1,1.15
+2026,7,2026-07,Harbor Kitchen,Olive oil,Green Basket,204.12,63.0,1,3.24
+2026,7,2026-07,Harbor Kitchen,Rice,Silverline Traders,150.36,179.0,1,0.84
+2026,7,2026-07,Juniper Cafe,Chicken breast,Green Basket,332.74,127.0,1,2.62
+2026,7,2026-07,Juniper Cafe,Cleaning liquid,Harbor Supply,55.38,26.0,1,2.13
+2026,7,2026-07,Juniper Cafe,Coffee beans,Northline Wholesale,218.5,25.0,1,8.74
+2026,7,2026-07,Juniper Cafe,Frozen vegetables,Green Basket,81.25,65.0,1,1.25
+2026,7,2026-07,Juniper Cafe,Milk,Harbor Supply,92.38,149.0,1,0.62
+2026,7,2026-07,Juniper Cafe,Napkins,Harbor Supply,90.85,79.0,1,1.15
+2026,7,2026-07,Juniper Cafe,Olive oil,Silverline Traders,136.89,39.0,1,3.51
+2026,7,2026-07,Juniper Cafe,Rice,Silverline Traders,100.62,117.0,1,0.86
+2026,7,2026-07,Lantern House,Chicken breast,Eastbay Foods,421.75,175.0,1,2.41
+2026,7,2026-07,Lantern House,Cleaning liquid,Harbor Supply,68.8,32.0,1,2.15
+2026,7,2026-07,Lantern House,Coffee beans,Northline Wholesale,276.21,31.0,1,8.91
+2026,7,2026-07,Lantern House,Frozen vegetables,Eastbay Foods,121.94,91.0,1,1.34
+2026,7,2026-07,Lantern House,Milk,Eastbay Foods,104.31,183.0,1,0.57
+2026,7,2026-07,Lantern House,Napkins,Northline Wholesale,93.93,93.0,1,1.01
+2026,7,2026-07,Lantern House,Olive oil,Green Basket,180.95,55.0,1,3.29
+2026,7,2026-07,Lantern House,Rice,Silverline Traders,103.32,123.0,1,0.84
+2026,7,2026-07,Market Table,Chicken breast,Eastbay Foods,491.26,203.0,1,2.42
+2026,7,2026-07,Market Table,Cleaning liquid,Silverline Traders,89.3,47.0,1,1.9
+2026,7,2026-07,Market Table,Coffee beans,Northline Wholesale,388.52,44.0,1,8.83
+2026,7,2026-07,Market Table,Frozen vegetables,Eastbay Foods,186.32,137.0,1,1.36
+2026,7,2026-07,Market Table,Milk,Harbor Supply,127.26,202.0,1,0.63
+2026,7,2026-07,Market Table,Napkins,Harbor Supply,163.02,143.0,1,1.14
+2026,7,2026-07,Market Table,Olive oil,Silverline Traders,247.08,71.0,1,3.48
+2026,7,2026-07,Market Table,Rice,Silverline Traders,142.76,166.0,1,0.86
+2026,7,2026-07,Olive & Ember,Chicken breast,Eastbay Foods,630.7,265.0,1,2.38
+2026,7,2026-07,Olive & Ember,Cleaning liquid,Silverline Traders,94.5,50.0,1,1.89
+2026,7,2026-07,Olive & Ember,Coffee beans,Harbor Supply,497.0,50.0,1,9.94
+2026,7,2026-07,Olive & Ember,Frozen vegetables,Green Basket,163.75,131.0,1,1.25
+2026,7,2026-07,Olive & Ember,Milk,Eastbay Foods,174.58,301.0,1,0.58
+2026,7,2026-07,Olive & Ember,Napkins,Northline Wholesale,151.5,150.0,1,1.01
+2026,7,2026-07,Olive & Ember,Olive oil,Silverline Traders,232.32,66.0,1,3.52
+2026,7,2026-07,Olive & Ember,Rice,Silverline Traders,180.2,212.0,1,0.85
+2026,7,2026-07,The Courtyard,Chicken breast,Green Basket,429.68,164.0,1,2.62
+2026,7,2026-07,The Courtyard,Cleaning liquid,Silverline Traders,71.44,38.0,1,1.88
+2026,7,2026-07,The Courtyard,Coffee beans,Northline Wholesale,333.64,38.0,1,8.78
+2026,7,2026-07,The Courtyard,Frozen vegetables,Green Basket,131.44,106.0,1,1.24
+2026,7,2026-07,The Courtyard,Milk,Harbor Supply,140.49,223.0,1,0.63
+2026,7,2026-07,The Courtyard,Napkins,Northline Wholesale,126.48,124.0,1,1.02
+2026,7,2026-07,The Courtyard,Olive oil,Green Basket,174.9,53.0,1,3.3
+2026,7,2026-07,The Courtyard,Rice,Silverline Traders,110.88,132.0,1,0.84
+2026,8,2026-08,Cedar Street,Chicken breast,Eastbay Foods,315.48,132.0,1,2.39
+2026,8,2026-08,Cedar Street,Cleaning liquid,Silverline Traders,54.23,29.0,1,1.87
+2026,8,2026-08,Cedar Street,Coffee beans,Northline Wholesale,267.3,30.0,1,8.91
+2026,8,2026-08,Cedar Street,Frozen vegetables,Green Basket,109.47,89.0,1,1.23
+2026,8,2026-08,Cedar Street,Milk,Eastbay Foods,107.88,186.0,1,0.58
+2026,8,2026-08,Cedar Street,Napkins,Northline Wholesale,95.95,95.0,1,1.01
+2026,8,2026-08,Cedar Street,Olive oil,Silverline Traders,180.54,51.0,1,3.54
+2026,8,2026-08,Cedar Street,Rice,Silverline Traders,109.22,127.0,1,0.86
+2026,8,2026-08,East Pier,Chicken breast,Green Basket,538.72,208.0,1,2.59
+2026,8,2026-08,East Pier,Cleaning liquid,Silverline Traders,69.93,37.0,1,1.89
+2026,8,2026-08,East Pier,Coffee beans,Harbor Supply,461.38,46.0,1,10.03
+2026,8,2026-08,East Pier,Frozen vegetables,Eastbay Foods,129.98,97.0,1,1.34
+2026,8,2026-08,East Pier,Milk,Harbor Supply,114.03,181.0,1,0.63
+2026,8,2026-08,East Pier,Napkins,Northline Wholesale,146.0,146.0,1,1.0
+2026,8,2026-08,East Pier,Olive oil,Silverline Traders,175.0,50.0,1,3.5
+2026,8,2026-08,East Pier,Rice,Northline Wholesale,127.17,157.0,1,0.81
+2026,8,2026-08,Harbor Kitchen,Chicken breast,Green Basket,521.38,199.0,1,2.62
+2026,8,2026-08,Harbor Kitchen,Cleaning liquid,Harbor Supply,90.72,42.0,1,2.16
+2026,8,2026-08,Harbor Kitchen,Coffee beans,Northline Wholesale,498.4,56.0,1,8.9
+2026,8,2026-08,Harbor Kitchen,Frozen vegetables,Green Basket,161.2,130.0,1,1.24
+2026,8,2026-08,Harbor Kitchen,Milk,Eastbay Foods,160.66,277.0,1,0.58
+2026,8,2026-08,Harbor Kitchen,Napkins,Northline Wholesale,136.99,133.0,1,1.03
+2026,8,2026-08,Harbor Kitchen,Olive oil,Green Basket,222.36,68.0,1,3.27
+2026,8,2026-08,Harbor Kitchen,Rice,Northline Wholesale,119.29,151.0,1,0.79
+2026,8,2026-08,Juniper Cafe,Chicken breast,Eastbay Foods,320.26,134.0,1,2.39
+2026,8,2026-08,Juniper Cafe,Cleaning liquid,Harbor Supply,53.75,25.0,1,2.15
+2026,8,2026-08,Juniper Cafe,Coffee beans,Northline Wholesale,264.6,30.0,1,8.82
+2026,8,2026-08,Juniper Cafe,Frozen vegetables,Eastbay Foods,105.3,78.0,1,1.35
+2026,8,2026-08,Juniper Cafe,Milk,Eastbay Foods,92.22,159.0,1,0.58
+2026,8,2026-08,Juniper Cafe,Napkins,Harbor Supply,86.64,76.0,1,1.14
+2026,8,2026-08,Juniper Cafe,Olive oil,Green Basket,145.64,44.0,1,3.31
+2026,8,2026-08,Juniper Cafe,Rice,Northline Wholesale,75.05,95.0,1,0.79
+2026,8,2026-08,Lantern House,Chicken breast,Eastbay Foods,398.4,166.0,1,2.4
+2026,8,2026-08,Lantern House,Cleaning liquid,Silverline Traders,58.59,31.0,1,1.89
+2026,8,2026-08,Lantern House,Coffee beans,Northline Wholesale,295.68,33.0,1,8.96
+2026,8,2026-08,Lantern House,Frozen vegetables,Eastbay Foods,144.16,106.0,1,1.36
+2026,8,2026-08,Lantern House,Milk,Harbor Supply,106.88,167.0,1,0.64
+2026,8,2026-08,Lantern House,Napkins,Northline Wholesale,98.88,96.0,1,1.03
+2026,8,2026-08,Lantern House,Olive oil,Silverline Traders,162.84,46.0,1,3.54
+2026,8,2026-08,Lantern House,Rice,Northline Wholesale,97.17,123.0,1,0.79
+2026,8,2026-08,Market Table,Chicken breast,Green Basket,421.48,164.0,1,2.57
+2026,8,2026-08,Market Table,Cleaning liquid,Harbor Supply,91.14,42.0,1,2.17
+2026,8,2026-08,Market Table,Coffee beans,Harbor Supply,441.32,44.0,1,10.03
+2026,8,2026-08,Market Table,Milk,Harbor Supply,167.04,261.0,1,0.64
+2026,8,2026-08,Market Table,Napkins,Harbor Supply,163.8,140.0,1,1.17
+2026,8,2026-08,Market Table,Olive oil,Silverline Traders,213.0,60.0,1,3.55
+2026,8,2026-08,Market Table,Rice,Northline Wholesale,106.65,135.0,1,0.79
+2026,8,2026-08,Olive & Ember,Chicken breast,Eastbay Foods,463.6,190.0,1,2.44
+2026,8,2026-08,Olive & Ember,Cleaning liquid,Harbor Supply,118.8,55.0,1,2.16
+2026,8,2026-08,Olive & Ember,Frozen vegetables,Green Basket,162.44,131.0,1,1.24
+2026,8,2026-08,Olive & Ember,Milk,Harbor Supply,165.06,262.0,1,0.63
+2026,8,2026-08,Olive & Ember,Napkins,Northline Wholesale,155.04,152.0,1,1.02
+2026,8,2026-08,Olive & Ember,Olive oil,Green Basket,228.2,70.0,1,3.26
+2026,8,2026-08,Olive & Ember,Rice,Silverline Traders,136.74,159.0,1,0.86
+2026,8,2026-08,The Courtyard,Chicken breast,Green Basket,508.26,197.0,1,2.58
+2026,8,2026-08,The Courtyard,Cleaning liquid,Silverline Traders,68.4,36.0,1,1.9
+2026,8,2026-08,The Courtyard,Coffee beans,Northline Wholesale,420.65,47.0,1,8.95
+2026,8,2026-08,The Courtyard,Frozen vegetables,Green Basket,130.54,107.0,1,1.22
+2026,8,2026-08,The Courtyard,Milk,Eastbay Foods,98.02,169.0,1,0.58
+2026,8,2026-08,The Courtyard,Napkins,Harbor Supply,143.84,124.0,1,1.16
+2026,8,2026-08,The Courtyard,Olive oil,Silverline Traders,178.5,50.0,1,3.57
+2026,8,2026-08,The Courtyard,Rice,Northline Wholesale,97.6,122.0,1,0.8
+2026,9,2026-09,Cedar Street,Chicken breast,Eastbay Foods,372.84,156.0,1,2.39
+2026,9,2026-09,Cedar Street,Cleaning liquid,Silverline Traders,60.8,32.0,1,1.9
+2026,9,2026-09,Cedar Street,Coffee beans,Northline Wholesale,312.2,35.0,1,8.92
+2026,9,2026-09,Cedar Street,Frozen vegetables,Green Basket,100.86,82.0,1,1.23
+2026,9,2026-09,Cedar Street,Milk,Eastbay Foods,84.68,146.0,1,0.58
+2026,9,2026-09,Cedar Street,Napkins,Northline Wholesale,105.06,103.0,1,1.02
+2026,9,2026-09,Cedar Street,Olive oil,Green Basket,126.54,38.0,1,3.33
+2026,9,2026-09,Cedar Street,Rice,Silverline Traders,86.0,100.0,1,0.86
+2026,9,2026-09,East Pier,Chicken breast,Green Basket,441.09,169.0,1,2.61
+2026,9,2026-09,East Pier,Cleaning liquid,Silverline Traders,91.2,48.0,1,1.9
+2026,9,2026-09,East Pier,Coffee beans,Northline Wholesale,460.72,52.0,1,8.86
+2026,9,2026-09,East Pier,Frozen vegetables,Eastbay Foods,170.1,126.0,1,1.35
+2026,9,2026-09,East Pier,Milk,Eastbay Foods,110.58,194.0,1,0.57
+2026,9,2026-09,East Pier,Napkins,Harbor Supply,151.62,133.0,1,1.14
+2026,9,2026-09,East Pier,Olive oil,Green Basket,221.1,66.0,1,3.35
+2026,9,2026-09,East Pier,Rice,Northline Wholesale,127.17,157.0,1,0.81
+2026,9,2026-09,Harbor Kitchen,Chicken breast,Eastbay Foods,486.0,200.0,1,2.43
+2026,9,2026-09,Harbor Kitchen,Cleaning liquid,Silverline Traders,86.48,46.0,1,1.88
+2026,9,2026-09,Harbor Kitchen,Coffee beans,Northline Wholesale,493.35,55.0,1,8.97
+2026,9,2026-09,Harbor Kitchen,Frozen vegetables,Eastbay Foods,155.44,116.0,1,1.34
+2026,9,2026-09,Harbor Kitchen,Milk,Eastbay Foods,120.64,208.0,1,0.58
+2026,9,2026-09,Harbor Kitchen,Napkins,Northline Wholesale,142.8,140.0,1,1.02
+2026,9,2026-09,Harbor Kitchen,Olive oil,Silverline Traders,244.26,69.0,1,3.54
+2026,9,2026-09,Harbor Kitchen,Rice,Silverline Traders,125.8,148.0,1,0.85
+2026,9,2026-09,Juniper Cafe,Chicken breast,Green Basket,295.26,114.0,1,2.59
+2026,9,2026-09,Juniper Cafe,Cleaning liquid,Harbor Supply,58.59,27.0,1,2.17
+2026,9,2026-09,Juniper Cafe,Coffee beans,Northline Wholesale,220.25,25.0,1,8.81
+2026,9,2026-09,Juniper Cafe,Frozen vegetables,Eastbay Foods,113.71,83.0,1,1.37
+2026,9,2026-09,Juniper Cafe,Milk,Eastbay Foods,80.62,139.0,1,0.58
+2026,9,2026-09,Juniper Cafe,Napkins,Harbor Supply,81.2,70.0,1,1.16
+2026,9,2026-09,Juniper Cafe,Olive oil,Green Basket,137.76,42.0,1,3.28
+2026,9,2026-09,Juniper Cafe,Rice,Northline Wholesale,70.47,87.0,1,0.81
+2026,9,2026-09,Lantern House,Chicken breast,Green Basket,435.87,167.0,1,2.61
+2026,9,2026-09,Lantern House,Cleaning liquid,Silverline Traders,64.6,34.0,1,1.9
+2026,9,2026-09,Lantern House,Coffee beans,Harbor Supply,419.16,42.0,1,9.98
+2026,9,2026-09,Lantern House,Frozen vegetables,Eastbay Foods,105.49,77.0,1,1.37
+2026,9,2026-09,Lantern House,Milk,Harbor Supply,110.72,173.0,1,0.64
+2026,9,2026-09,Lantern House,Napkins,Northline Wholesale,117.16,116.0,1,1.01
+2026,9,2026-09,Lantern House,Olive oil,Silverline Traders,169.44,48.0,1,3.53
+2026,9,2026-09,Lantern House,Rice,Silverline Traders,114.38,133.0,1,0.86
+2026,9,2026-09,Market Table,Chicken breast,Green Basket,520.0,200.0,1,2.6
+2026,9,2026-09,Market Table,Cleaning liquid,Silverline Traders,95.37,51.0,1,1.87
+2026,9,2026-09,Market Table,Coffee beans,Harbor Supply,392.34,39.0,1,10.06
+2026,9,2026-09,Market Table,Frozen vegetables,Eastbay Foods,132.66,99.0,1,1.34
+2026,9,2026-09,Market Table,Milk,Harbor Supply,130.41,207.0,1,0.63
+2026,9,2026-09,Market Table,Napkins,Harbor Supply,134.55,117.0,1,1.15
+2026,9,2026-09,Market Table,Olive oil,Green Basket,170.34,51.0,1,3.34
+2026,9,2026-09,Market Table,Rice,Northline Wholesale,147.2,184.0,1,0.8
+2026,9,2026-09,Olive & Ember,Chicken breast,Eastbay Foods,522.16,214.0,1,2.44
+2026,9,2026-09,Olive & Ember,Cleaning liquid,Silverline Traders,105.05,55.0,1,1.91
+2026,9,2026-09,Olive & Ember,Coffee beans,Harbor Supply,596.49,59.0,1,10.11
+2026,9,2026-09,Olive & Ember,Frozen vegetables,Green Basket,148.83,121.0,1,1.23
+2026,9,2026-09,Olive & Ember,Milk,Harbor Supply,144.9,230.0,1,0.63
+2026,9,2026-09,Olive & Ember,Napkins,Northline Wholesale,174.07,169.0,1,1.03
+2026,9,2026-09,Olive & Ember,Olive oil,Silverline Traders,242.76,68.0,1,3.57
+2026,9,2026-09,Olive & Ember,Rice,Northline Wholesale,138.4,173.0,1,0.8
+2026,9,2026-09,The Courtyard,Chicken breast,Green Basket,447.1,170.0,1,2.63
+2026,9,2026-09,The Courtyard,Cleaning liquid,Silverline Traders,64.26,34.0,1,1.89
+2026,9,2026-09,The Courtyard,Coffee beans,Harbor Supply,384.56,38.0,1,10.12
+2026,9,2026-09,The Courtyard,Frozen vegetables,Eastbay Foods,120.56,88.0,1,1.37
+2026,9,2026-09,The Courtyard,Milk,Harbor Supply,123.48,196.0,1,0.63
+2026,9,2026-09,The Courtyard,Napkins,Harbor Supply,114.66,98.0,1,1.17
+2026,9,2026-09,The Courtyard,Olive oil,Silverline Traders,169.92,48.0,1,3.54
+2026,9,2026-09,The Courtyard,Rice,Northline Wholesale,127.98,162.0,1,0.79
