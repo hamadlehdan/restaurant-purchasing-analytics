@@ -1,0 +1,173 @@
+invoice_line_id,field,before,after,action
+IL-00284,supplier, harbor supply ,Harbor Supply,Standardized
+IL-00122,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00530,supplier, green basket ,Green Basket,Standardized
+IL-00022,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-01154,product,  chicken breast,Chicken breast,Standardized
+IL-00451,order_date,2025/08/07,2025-08-07,Standardized
+IL-00422,order_date,18/07/2025,2025-07-18,Standardized
+IL-00276,order_date,12/05/2025,2025-05-12,Standardized
+IL-01248,product,  frozen vegetables,Frozen vegetables,Standardized
+IL-01174,order_date,14/07/2026,2026-07-14,Standardized
+IL-00950,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-00116,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00465,order_date,2025/08/09,2025-08-09,Standardized
+IL-01208,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-01134,order_date,20/06/2026,2026-06-20,Standardized
+IL-00657,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-00637,venue,  EAST PIER ,East Pier,Standardized
+IL-00110,supplier, harbor supply ,Harbor Supply,Standardized
+IL-00039,product,NAPKINS ,Napkins,Standardized
+IL-00055,product,NAPKINS ,Napkins,Standardized
+IL-00161,supplier,HARBOR SUPPLY  ,Harbor Supply,Standardized
+IL-00067,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00789,supplier,GREEN BASKET  ,Green Basket,Standardized
+IL-01041,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-00479,product,NAPKINS ,Napkins,Standardized
+IL-00587,venue,  THE COURTYARD ,The Courtyard,Standardized
+IL-00212,supplier, harbor supply ,Harbor Supply,Standardized
+IL-01291,unit_price_bhd,,0.79,Recovered price from total ÷ quantity
+IL-01332,product,  milk,Milk,Standardized
+IL-00483,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-01011,order_date,2026/04/19,2026-04-19,Standardized
+IL-00372,unit_price_bhd,,0.56,Recovered price from total ÷ quantity
+IL-00432,order_date,22/07/2025,2025-07-22,Standardized
+IL-00564,product,  milk,Milk,Standardized
+IL-00106,venue, juniper cafe  ,Juniper Cafe,Standardized
+IL-00334,order_date,12/06/2025,2025-06-12,Standardized
+IL-00130,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00230,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-00831,product,NAPKINS ,Napkins,Standardized
+IL-00035,order_date,2025/01/15,2025-01-15,Standardized
+IL-01187,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00327,product,NAPKINS ,Napkins,Standardized
+IL-00909,venue,  THE COURTYARD ,The Courtyard,Standardized
+IL-01232,venue, the courtyard  ,The Courtyard,Standardized
+IL-00549,product,OLIVE OIL ,Olive oil,Standardized
+IL-00754,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00393,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-00682,product,  chicken breast,Chicken breast,Standardized
+IL-00190,order_date,05/03/2025,2025-03-05,Standardized
+IL-00853,venue,  OLIVE & EMBER ,Olive & Ember,Standardized
+IL-01135,order_date,2026/06/21,2026-06-21,Standardized
+IL-01207,order_date,2026/07/23,2026-07-23,Standardized
+IL-00118,order_date,22/02/2025,2025-02-22,Standardized
+IL-01055,supplier,NORTHLINE WHOLESALE  ,Northline Wholesale,Standardized
+IL-01293,product,OLIVE OIL ,Olive oil,Standardized
+IL-00175,venue,  JUNIPER CAFE ,Juniper Cafe,Standardized
+IL-00628,order_date,20/10/2025,2025-10-20,Standardized
+IL-01039,venue,  THE COURTYARD ,The Courtyard,Standardized
+IL-01235,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00138,product,  chicken breast,Chicken breast,Standardized
+IL-01198,supplier, harbor supply ,Harbor Supply,Standardized
+IL-00374,venue, lantern house  ,Lantern House,Standardized
+IL-00737,order_date,2025/12/13,2025-12-13,Standardized
+IL-00696,venue, lantern house  ,Lantern House,Standardized
+IL-00269,venue,  THE COURTYARD ,The Courtyard,Standardized
+IL-00854,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-00391,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00079,order_date,2025/02/13,2025-02-13,Standardized
+IL-00240,product,  frozen vegetables,Frozen vegetables,Standardized
+IL-00512,order_date,07/08/2025,2025-08-07,Standardized
+IL-00712,order_date,12/12/2025,2025-12-12,Standardized
+IL-00598,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-00977,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-01014,supplier, silverline traders ,Silverline Traders,Standardized
+IL-00171,venue,  JUNIPER CAFE ,Juniper Cafe,Standardized
+IL-00635,supplier,NORTHLINE WHOLESALE  ,Northline Wholesale,Standardized
+IL-00771,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-01223,supplier,NORTHLINE WHOLESALE  ,Northline Wholesale,Standardized
+IL-00417,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-00452,order_date,08/08/2025,2025-08-08,Standardized
+IL-00793,order_date,2026/01/11,2026-01-11,Standardized
+IL-00856,order_date,16/02/2026,2026-02-16,Standardized
+IL-00477,product,OLIVE OIL ,Olive oil,Standardized
+IL-00290,order_date,14/05/2025,2025-05-14,Standardized
+IL-00711,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00326,product,  cleaning liquid,Cleaning liquid,Standardized
+IL-00045,product,OLIVE OIL ,Olive oil,Standardized
+IL-00709,product,OLIVE OIL ,Olive oil,Standardized
+IL-01321,order_date,2026/09/15,2026-09-15,Standardized
+IL-01077,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00970,venue, the courtyard  ,The Courtyard,Standardized
+IL-00706,order_date,06/12/2025,2025-12-06,Standardized
+IL-00402,supplier, green basket ,Green Basket,Standardized
+IL-00356,venue, market table  ,Market Table,Standardized
+IL-00710,order_date,10/12/2025,2025-12-10,Standardized
+IL-00178,supplier, green basket ,Green Basket,Standardized
+IL-00728,unit_price_bhd,,1.23,Recovered price from total ÷ quantity
+IL-01017,venue,  EAST PIER ,East Pier,Standardized
+IL-00503,order_date,2025/08/23,2025-08-23,Standardized
+IL-00821,product,OLIVE OIL ,Olive oil,Standardized
+IL-01281,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00895,order_date,2026/02/06,2026-02-06,Standardized
+IL-00427,venue,  JUNIPER CAFE ,Juniper Cafe,Standardized
+IL-00908,unit_price_bhd,,0.57,Recovered price from total ÷ quantity
+IL-00868,order_date,16/02/2026,2026-02-16,Standardized
+IL-00167,venue,  MARKET TABLE ,Market Table,Standardized
+IL-01301,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00285,product,OLIVE OIL ,Olive oil,Standardized
+IL-00521,product,COFFEE BEANS ,Coffee beans,Standardized
+IL-00248,supplier, green basket ,Green Basket,Standardized
+IL-00041,order_date,2025/01/15,2025-01-15,Standardized
+IL-00947,product,RICE ,Rice,Standardized
+IL-00024,product,  frozen vegetables,Frozen vegetables,Standardized
+IL-00572,product,  milk,Milk,Standardized
+IL-00663,product,NAPKINS ,Napkins,Standardized
+IL-00211,supplier,SILVERLINE TRADERS  ,Silverline Traders,Standardized
+IL-00270,order_date,12/05/2025,2025-05-12,Standardized
+IL-00888,venue, lantern house  ,Lantern House,Standardized
+IL-00220,order_date,14/04/2025,2025-04-14,Standardized
+IL-01073,venue,  LANTERN HOUSE ,Lantern House,Standardized
+IL-00444,venue, east pier  ,East Pier,Standardized
+IL-00963,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00955,venue,  EAST PIER ,East Pier,Standardized
+IL-01202,order_date,18/07/2026,2026-07-18,Standardized
+IL-00526,supplier, harbor supply ,Harbor Supply,Standardized
+IL-00412,venue, cedar street  ,Cedar Street,Standardized
+IL-00987,product,RICE ,Rice,Standardized
+IL-00591,supplier,HARBOR SUPPLY  ,Harbor Supply,Standardized
+IL-01172,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00702,order_date,05/11/2025,2025-11-05,Standardized
+IL-01217,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00394,venue, the courtyard  ,The Courtyard,Standardized
+IL-00136,order_date,12/03/2025,2025-03-12,Standardized
+IL-01096,venue, harbor kitchen  ,Harbor Kitchen,Standardized
+IL-00780,venue, the courtyard  ,The Courtyard,Standardized
+IL-01180,order_date,14/07/2026,2026-07-14,Standardized
+IL-00968,order_date,12/04/2026,2026-04-12,Standardized
+IL-01329,venue,  LANTERN HOUSE ,Lantern House,Standardized
+IL-00360,venue, market table  ,Market Table,Standardized
+IL-00837,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-01152,unit_price_bhd,,1.36,Recovered price from total ÷ quantity
+IL-00317,product,OLIVE OIL ,Olive oil,Standardized
+IL-00246,venue, lantern house  ,Lantern House,Standardized
+IL-00846,order_date,12/02/2026,2026-02-12,Standardized
+IL-00782,venue, the courtyard  ,The Courtyard,Standardized
+IL-00442,venue, east pier  ,East Pier,Standardized
+IL-00464,product,  frozen vegetables,Frozen vegetables,Standardized
+IL-00668,venue, cedar street  ,Cedar Street,Standardized
+IL-01240,venue, olive & ember  ,Olive & Ember,Standardized
+IL-00674,supplier, green basket ,Green Basket,Standardized
+IL-01157,venue,  HARBOR KITCHEN ,Harbor Kitchen,Standardized
+IL-00453,supplier,GREEN BASKET  ,Green Basket,Standardized
+IL-00543,supplier,HARBOR SUPPLY  ,Harbor Supply,Standardized
+IL-00517,order_date,2025/09/09,2025-09-09,Standardized
+IL-00063,venue,  EAST PIER ,East Pier,Standardized
+IL-00651,venue,  THE COURTYARD ,The Courtyard,Standardized
+IL-01335,supplier,NORTHLINE WHOLESALE  ,Northline Wholesale,Standardized
+IL-00878,order_date,20/02/2026,2026-02-20,Standardized
+IL-00672,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00494,order_date,20/08/2025,2025-08-20,Standardized
+IL-00489,venue,  JUNIPER CAFE ,Juniper Cafe,Standardized
+IL-01186,product,  chicken breast,Chicken breast,Standardized
+IL-00109,product,OLIVE OIL ,Olive oil,Standardized
+IL-00120,product,  frozen vegetables,Frozen vegetables,Standardized
+IL-00134,venue, harbor kitchen  ,Harbor Kitchen,Standardized
+IL-00436,product,  milk,Milk,Standardized
+IL-00042,supplier, eastbay foods ,Eastbay Foods,Standardized
+IL-00241,order_date,2025/04/17,2025-04-17,Standardized
+IL-00664,supplier, green basket ,Green Basket,Standardized
+IL-00647,order_date,2025/11/11,2025-11-11,Standardized
+IL-00614,supplier, silverline traders ,Silverline Traders,Standardized
+IL-00861,venue,  CEDAR STREET ,Cedar Street,Standardized
