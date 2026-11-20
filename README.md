@@ -1,40 +1,57 @@
-# Restaurant Purchasing Intelligence — complete portfolio project
+# Restaurant Purchasing Intelligence
 
-**All data is synthetic. No employer information is included.**
+**AI-assisted data cleaning, validation, purchasing analysis and interactive dashboard | Synthetic portfolio project**
 
-## Open the finished work
-- `index.html` — interactive offline dashboard (double-click on Mac).
-- `CASE_STUDY.md` — recruiter-facing problem, method, findings, recommendations, limitations.
-- `portfolio_workbook.xlsx` — formatted Excel analysis, formulas, purchases and budget plan.
-- `02_cleaned_tableau_ready.csv` — import this into Tableau Public/Desktop.
-- `VALIDATION_REPORT.md` — cleaning and validation summary.
+> **Demonstration only:** Every venue, supplier, product, transaction and budget here is fictional. No employer records are included.
 
-## Full reproducible pipeline
-- `01_raw_purchases.csv` — intentionally messy original data; preserved.
-- `02_cleaned_tableau_ready.csv` — standardized and validated invoice lines.
-- `03_quarantined_rows.csv` — duplicates and unresolved data conflicts, with reasons.
-- `04_cleaning_change_log.csv` — field-level edits and price recovery.
-- `05_budget_plan_2026.csv` — synthetic budget assumptions.
-- `06_monthly_spend_by_supplier.csv` and `07_monthly_comparison.csv` — Tableau-friendly summaries.
-- `08_analysis_summary.json` — reproducible computed findings.
-- `build_project.py` — generate this *fictional demonstration* from a fixed random seed.
-- `refresh_from_raw.py` — reusable cleaner for new CSVs with the same schema, see notes inside.
+![Static visual preview of the purchasing dashboard](dashboard_preview.svg)
 
-## To use in Tableau (Mac)
-1. Open Tableau Public or Tableau Desktop → Connect → Text file → `02_cleaned_tableau_ready.csv`.
-2. Confirm `order_date` is Date and `line_total_bhd`, `quantity`, `unit_price_bhd` are numeric.
-3. Build a monthly spend line: Columns = month of `order_date`, Rows = SUM(`line_total_bhd`), Color = `year`.
-4. Build a horizontal bar: Rows = `venue`, Columns = SUM(`line_total_bhd`), filter `year = 2026`, `month <= 9`.
-5. Build supplier spend bars and a product-supplier weighted price field: `SUM([line_total_bhd])/SUM([quantity])`, scoped to one product.
-6. Assemble a dashboard, add venue/product controls, annotate synthetic sourcing and the Jan–Sep comparison.
-7. Publish using **Tableau Public → Save to Tableau Public** after signing in. It will be public, so use only these fictional files.
+### Open the dashboard
 
-The provided interactive HTML dashboard is already built. A public Tableau-hosted version is not published from this package and needs you to sign into your account.
+- **[Interactive dashboard](https://hamadlehdan.github.io/restaurant-purchasing-analytics/)** — works once GitHub Pages is enabled for the `main` branch, `/ (root)`. If this link currently says 404, enable GitHub Pages under **Settings → Pages**.
+- **[Dashboard source](index.html)** — self-contained, interactive HTML containing the fictional data and venue/product filters.
+- **[Case study](CASE_STUDY.md)** — business question, approach, findings, recommendations and limitations.
+- **[Tableau-ready dataset](02_cleaned_tableau_ready.csv)** — clean, validated invoice lines.
+- **[Data-quality report](VALIDATION_REPORT.md)** — validation summary and rejected records.
+- **[Data dictionary](DATA_DICTIONARY.md)** — field meanings.
 
-## Recurring Mac refresh (same CSV structure only)
-Put a new file named `01_raw_purchases.csv` into the project folder, **keeping a separate backup of the original**, then double-click `run_refresh_on_mac.command` (Mac must have Python 3 installed). It refreshes the cleaned CSV, quarantine log, analysis JSON, narrative Markdown and interactive HTML dashboard. Check the quarantine report after each run. The formatted Excel workbook and PDF are **point-in-time snapshots**; they do not update automatically from the Mac script. The new input should have the same columns, fictional venue/product taxonomy and matching 2025/2026 periods, otherwise ask ChatGPT to adapt the pipeline rather than assuming a correct result.
+### Business question
 
-If you use real company data, first confirm you are authorized to upload it or run it through any AI service. Never publish real purchasing records to Tableau Public or GitHub Pages without explicit permission.
+How could a multi-venue hospitality operator identify purchasing trends, supplier price differences, and potential areas to negotiate better value?
 
-## What to say to an employer
-“I created a simulated eight-restaurant purchasing dataset, built a reproducible cleaning and validation pipeline, compared matched-period procurement trends, and developed an interactive dashboard. I retained an audit log and quarantine report to avoid hiding data-quality issues. My recommendations explicitly distinguish price-only savings scenarios from verified commercial savings.”
+### Results — synthetic January–September 2026
+- **BD 122,314.67** of purchasing, versus **BD 117,181.96** in the comparable 2025 period (**+4.38%**).
+- **BD 726.69 below** an illustrative 2026 budget.
+- **1,363 raw purchase lines** → 19 duplicate IDs removed and nine additional problematic rows quarantined → **1,335 validated records**.
+- **172 documented data-cleaning adjustments** across supplier, venue, product, date and price fields.
+- **BD 5,631.25 modeled price-only supplier-switch opportunity**, an illustrative scenario rather than a validated saving.
+
+### Available source files
+
+| File | Use |
+| --- | --- |
+| [01_raw_purchases.csv](01_raw_purchases.csv) | Original intentionally messy synthetic input |
+| [02_cleaned_tableau_ready.csv](02_cleaned_tableau_ready.csv) | Validated and cleaned Tableau import |
+| [03_quarantined_rows.csv](03_quarantined_rows.csv) | Invalid and duplicate records retained for audit |
+| [04_cleaning_change_log.csv](04_cleaning_change_log.csv) | Field-level corrections |
+| [05_budget_plan_2026.csv](05_budget_plan_2026.csv) | Illustrative purchasing budgets |
+| [06_monthly_spend_by_supplier.csv](06_monthly_spend_by_supplier.csv) | Supplier and product summary |
+| [07_monthly_comparison.csv](07_monthly_comparison.csv) | Comparable monthly spend |
+| [index.html](index.html) | Self-contained interactive visual |
+| [dashboard_preview.svg](dashboard_preview.svg) | Static chart preview shown above |
+
+### Skills demonstrated
+
+Data cleaning • data-quality checks • audit trails • Excel/CSV preparation • period-over-period comparison • budget variance • supplier price analysis • dashboard design • business recommendations.
+
+### Tableau
+
+Load `02_cleaned_tableau_ready.csv` into Tableau Public or Desktop. Set `order_date` to Date and the BHD amount columns to numeric. Build a monthly purchasing trend, venue breakdown and supplier benchmark. This repository provides an **HTML dashboard and Tableau-ready data**, not a published native Tableau workbook.
+
+### Reproducibility and limitations
+
+The complete local project package prepared separately also includes an Excel workbook, PDF case study, Python pipeline and Mac refresh script. Those local-only binary and script files are **not currently in this GitHub repository**. The GitHub-hosted visualization is self-contained and requires no Python runtime.
+
+The supplier comparisons do not account for product quality, supplier capacity, contract terms, volume commitments or delivery conditions. A spending change can reflect changing quantities and mix, not just price.
+
+**Portfolio purpose:** Demonstrate a transparent analysis workflow without suggesting the invented figures describe a real business.
